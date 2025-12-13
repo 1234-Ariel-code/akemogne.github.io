@@ -26,9 +26,9 @@ lang: zh
 <td markdown="1">
 [**University of Calgary**](https://www.ucalgary.ca/)
     
--Title: Heritability by representations learning  
+-Title: Representation Learning for Unstructured Genetic Data with Applications to Polygenic Analysis of Complex Traits 
 
-I develop a new approach of getting heritability estimates using deep learning techniques.
+My research basically focus on novel biostatistical and machine learning methods for identifying genetic factors associated with complex diseases such as cancer and cardiovascular diseases.
     
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
@@ -163,3 +163,4 @@ td {
     text-align: left;
 }
 </style>
+
