@@ -31,11 +31,13 @@ img {
 
 ### About Me
 
-I'm Ariel Ghislain Kemogne Kamdoum$^{[ORCID](https://orcid.org/0009-0007-1926-7695)}$, a PhD researcher in Biostatistics at the [University of Calgary, Canada](https://www.ucalgary.ca/), specializing in machine learning applications in biological and medical data. My research primarily involves developing novel biostatistical and machine learning methodologies to identify genetic factors linked to complex diseases like cancer and cardiovascular conditions.
+I'm Ariel Ghislain Kemogne Kamdoum, a PhD researcher in Biostatistics at the [University of Calgary, Canada](https://www.ucalgary.ca/), specializing in machine learning applications in biological and medical data. My research primarily involves developing novel biostatistical and machine learning methodologies to identify genetic factors linked to complex diseases like cancer and cardiovascular conditions.
 
 My academic foundation is in Mathematics and Computer Science, with a focus on Machine Intelligence. I completed my Master's degree in Mathematics from the [University of Dschang, Cameroon](https://www.univ-dschang.org/), Cameroon, where I explored algebraic topology and its applications in robotics. Motivated by the profound implications of Mathematical Sciences, I expanded my education at the African Institute for Mathematical Sciences (AIMS), earning two MSc degrees from [Senegal](https://aims-senegal.org/) and [Ghana](https://aims.edu.gh/) in Mathematical Sciences and [Machine Intelligence](https://aimsammi.org/), respectively.
 
 My professional experience includes data science roles at [ICRISAT/MANOBI](https://www.manobi.com/) and teaching assistant positions at [Neuromatch Academy (NMA)](https://academy.neuromatch.io/), focusing on deep learning and neuroscience. Currently, as a part of [Quan Long's Lab](https://sites.google.com/site/quanlongresearch/group-members?authuser=0) at the [University of Calgary](https://www.ucalgary.ca/), I am enthusiastically applying my combined expertise in statistics and machine intelligence to address real-world challenges.
+
+More on [ORCID](https://orcid.org/0009-0007-1926-7695)
 
 ---
 
