@@ -12,7 +12,15 @@ lang: zh
 {% assign posts_collate = site.categories.projects %}
 {% include JB/posts_collate %}
 
-Uploading...
+My contributions at [Google Scholar](https://scholar.google.com/citations?user=q7dQio4AAAAJ).
+
+
+
+
+
+
+
+
 
 <!-- <link rel="stylesheet" href="/glyphicons/css/glyphicons.css">
 
