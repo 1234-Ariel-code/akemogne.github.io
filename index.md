@@ -31,7 +31,7 @@ img {
 
 ### About Me
 
-I'm Ariel Ghislain Kemogne Kamdoum, a PhD researcher in Biostatistics at the [University of Calgary, Canada](https://www.ucalgary.ca/), specializing in machine learning applications in biological and medical data. My research primarily involves developing novel biostatistical and machine learning methodologies to identify genetic factors linked to complex diseases like cancer and cardiovascular conditions.
+I'm Ariel Ghislain Kemogne Kamdoum [ORCID](https://orcid.org/0009-0007-1926-7695), a PhD researcher in Biostatistics at the [University of Calgary, Canada](https://www.ucalgary.ca/), specializing in machine learning applications in biological and medical data. My research primarily involves developing novel biostatistical and machine learning methodologies to identify genetic factors linked to complex diseases like cancer and cardiovascular conditions.
 
 My academic foundation is in Mathematics and Computer Science, with a focus on Machine Intelligence. I completed my Master's degree in Mathematics from the [University of Dschang, Cameroon](https://www.univ-dschang.org/), Cameroon, where I explored algebraic topology and its applications in robotics. Motivated by the profound implications of Mathematical Sciences, I expanded my education at the African Institute for Mathematical Sciences (AIMS), earning two MSc degrees from [Senegal](https://aims-senegal.org/) and [Ghana](https://aims.edu.gh/) in Mathematical Sciences and [Machine Intelligence](https://aimsammi.org/), respectively.
 
@@ -45,6 +45,8 @@ Graduate Awards Competition (GAC) University of Calgary, Canada, 2023:
 1- 2023 Alberta Innovates Graduates Scholarship, 2023-2026
 
 2- Indigenous and Black Momentum Scholarship in Science, 2022-2023
+
+3- Graduate Teaching Assistant (GAT) Award Department of Mathematics and Statistics, University of Calgary, 2024
 
 
 ---
@@ -75,6 +77,8 @@ My research interests include but not limited to:
 ---
 
 ### News
+- [July 2025] Oral Talk, BIRS Workshop, "Novel Statistical Approaches for Studying Multi-omics Data", July 13 - 18, 2025, Banff International Research Station, Banff, AB, Canada
+  
 - [September 2023] Happy to be part of the reviewers of short papers of Deep Learning Indaba conference 2023, Ghana
   
 - [August 2023] Happy to be part of the organizers of the Data Science Workshop for Alberta High School Students: Two-day’s workshop that will be hosted in the Math/Stats department at the University of Calgary, Canada. Students in Calgary will attend in-person, and other students in Alberta.
