@@ -42,7 +42,6 @@ My [ORCID](https://orcid.org/0009-0007-1926-7695).
 ---
 
 ### Awards 
-Graduate Awards Competition (GAC) University of Calgary, Canada, 2023:
 
 1- 2023 Alberta Innovates Graduates Scholarship, 2023-2026
 
@@ -56,11 +55,13 @@ Graduate Awards Competition (GAC) University of Calgary, Canada, 2023:
 ### Research Interests
 My research interests include but not limited to:
 
-- Biostatistics/Bioinformatics
+- Artificial Intelligence (AI)
 
 - Machine learning/Deep Learning (Representation learning, Deep learning, Optimization)
 
 - Statistical genetics
+  
+- Biostatistics/Bioinformatics
 
 
 ---
