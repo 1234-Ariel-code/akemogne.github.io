@@ -47,7 +47,7 @@ My [ORCID](https://orcid.org/0009-0007-1926-7695).
 
 2- Indigenous and Black Momentum Scholarship in Science, 2022-2023
 
-3- Graduate Teaching Assistant (GAT) Award Department of Mathematics and Statistics, University of Calgary, 2024
+3- Graduate Teaching Assistant (GAT) Excellence Award Department of Mathematics and Statistics, University of Calgary, 2024
 
 
 ---
