@@ -41,6 +41,25 @@ My [ORCID](https://orcid.org/0009-0007-1926-7695).
 
 ---
 
+### Memberships
+
+1- American Society of Human Genetics (ASHG):
+Member of the leading international professional society advancing research, education, and clinical practice in human genetics. ASHG fosters cutting-edge discoveries in genomics, statistical genetics, and precision medicine through high-impact conferences, publications, and collaborative initiatives.
+
+2- Statistical Society of Canada (SSC):
+Member of Canada’s national organization promoting excellence in statistics, probability, and data science. SSC supports methodological innovation, interdisciplinary research, and the application of statistical science to public policy, health, and society.
+
+3- Digital Health Canada:
+Member of Canada’s principal professional association for digital health leaders. This network connects innovators, clinicians, researchers, and policymakers working to advance AI-driven healthcare, virtual care, interoperability, and responsible health data governance.
+
+4- Neuromatch Academy:
+Member of a global, community-driven academy focused on advanced training and collaboration in machine learning, computational neuroscience, and AI. Neuromatch Academy emphasizes open science, rigorous methodology, and cross-disciplinary research.
+
+5- Technology Alberta:
+Member of Alberta’s innovation ecosystem supporting technology commercialization, entrepreneurship, and industry–academic collaboration across AI, health tech, and emerging digital sectors.
+
+---
+
 ### Awards 
 
 1- 2023 Alberta Innovates Graduates Scholarship, 2023-2026
@@ -48,7 +67,6 @@ My [ORCID](https://orcid.org/0009-0007-1926-7695).
 2- Indigenous and Black Momentum Scholarship in Science, 2022-2023
 
 3- Graduate Teaching Assistant (GAT) Excellence Award Department of Mathematics and Statistics, University of Calgary, 2024
-
 
 ---
 
