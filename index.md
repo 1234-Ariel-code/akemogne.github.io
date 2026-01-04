@@ -31,7 +31,7 @@ img {
 
 ### About Me
 
-I'm Ariel Ghislain Kemogne Kamdoum, a PhD researcher in Biostatistics at the [University of Calgary, Canada](https://www.ucalgary.ca/), specializing in machine learning applications in biological and medical data. My research primarily involves developing novel biostatistical and machine learning methodologies to identify genetic factors linked to complex diseases like cancer and cardiovascular conditions.
+I'm Ariel Ghislain Kemogne Kamdoum, a PhD researcher at the [University of Calgary, Canada](https://www.ucalgary.ca/), where I develop novel biostatistical and representation learning (AI/ML) methods to identify genetic factors underlying complex diseases such as cancer and cardiovascular disorders, with a strong emphasis on interpretability and mechanistic insight. My research bridges statistical genetics, deep learning, and explainable AI to improve our understanding of disease biology and heritability.
 
 My academic foundation is in Mathematics and Computer Science, with a focus on Machine Intelligence. I completed my Master's degree in Mathematics from the [University of Dschang, Cameroon](https://www.univ-dschang.org/), Cameroon, where I explored algebraic topology and its applications in robotics. Motivated by the profound implications of Mathematical Sciences, I expanded my education at the African Institute for Mathematical Sciences (AIMS), earning two MSc degrees from [Senegal](https://aims-senegal.org/) and [Ghana](https://aims.edu.gh/) in Mathematical Sciences and [Machine Intelligence](https://aimsammi.org/), respectively.
 
