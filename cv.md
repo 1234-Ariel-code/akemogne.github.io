@@ -294,10 +294,7 @@ Having substantial expertise in Python and experience with some aspects of neura
 - Teaching Assistant in Mathematics
 </td> 
 </tr>
-
 </table>
-
----
 
 
 # Conferences and Workshops 
@@ -426,6 +423,7 @@ td {
   border-collapse: collapse;
 }
 </style>
+
 
 
 
