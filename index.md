@@ -41,7 +41,9 @@ More on [ORCID](https://orcid.org/0009-0007-1926-7695).
 
 ---
 
-### Assistant Teaching (Winter 2026), University of Calgary, Alberta, Canada
+### Teaching (Winter 2026)
+
+Graduate Teaching Assistant at University of Calgary, Alberta, Canada
 
 1- STAT 205: Introduction to Statistical Inquiry
 
