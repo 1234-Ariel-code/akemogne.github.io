@@ -41,6 +41,18 @@ More on [ORCID](https://orcid.org/0009-0007-1926-7695).
 
 ---
 
+### Assistant Teaching (Winter 2026), University of Calgary, Alberta, Canada
+
+1- STAT 205: Introduction to Statistical Inquiry
+
+An applied introduction to statistical thinking, focusing on data collection, exploratory data analysis, probability concepts, statistical inference, confidence intervals, hypothesis testing, and real-world data interpretation.
+
+2- STAT 323: Introduction to Theoretical Statistics
+
+A mathematically grounded course covering probability theory, random variables, common distributions, expectations, sampling distributions, and the theoretical foundations underlying statistical inference.
+
+---
+
 ### Awards 
 
 1- 2023 Alberta Innovates Graduates Scholarship, 2023-2026
