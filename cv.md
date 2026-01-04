@@ -302,8 +302,6 @@ Having substantial expertise in Python and experience with some aspects of neura
 
 # Conferences and Workshops 
 
-
----
 <table style="width:100%">
 <col width="17%">
 <col width="20">
@@ -370,7 +368,6 @@ The HLF is a networking conference where 200 carefully selected young researcher
 </tr>
 </table>
 
----
 
 <style type="text/css">
 td {
@@ -429,6 +426,7 @@ td {
   border-collapse: collapse;
 }
 </style>
+
 
 
 
