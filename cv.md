@@ -152,80 +152,6 @@ CV in [PDF](https://1234-ariel-code.github.io/akemogne.github.io/archive/CV_Arie
 
 ---
 
----
-
-
-# Conferences and Workshops 
-
-
----
-<table style="width:100%">
-<col width="17%">
-<col width="20">
-<col >
-
-<tr style="border-bottom:1pt solid #eee">
-<td markdown="1">
-<img src="images/conference/CIMPA-logo.jpg" width="400" height="100" />
-</td>
-<td></td>
-<td markdown="1">
-[CIMPA](https://www.cimpa.info/), Centre International des Mathématiques Pures et Appliquées at Ecole Nationale Supérieure Polytechnique de Yaoundé, Cameroon (2018)
-  
--Title: Application of ALgebraic Toplogy in Robotics
-  
-The Centre International de Mathématiques Pures et Appliquées (CIMPA), founded in France in 1978, is a nonprofit organisation that promotes research in Mathematics in developing countries. Located in Nice, it is a UNESCO Category 2 centre and  is part of the Laboratoire d'Excellence CARMIN (Centres d'Accueil et de Rencontres Mathématiques Internationales). It benefits from the financial support of Germany, France, Norway, Spain and Switzerland.
-</td> 
-</tr>
-  
-<tr style="border-bottom:1pt solid #eee">
-<td markdown="1">
-<img src="images/conference/hlf.svg" width="200" height="200" />
-</td>
-<td></td>
-<td markdown="1">
-[Heidelberg Laureate Forum (HLF)](https://www.heidelberg-laureate-forum.org/), 7th Heidelberg Laureate Forum, Germany (2019)
-
-The HLF is a networking conference where 200 carefully selected young researchers in mathematics and computer science spend a week interacting with the laureates of the disciplines: recipients of the Abel Prize, ACM A.M. Turing Award, ACM Prize in Computing, Fields Medal and Nevanlinna Prize. Established in 2013, the HLF is annually organized by the Heidelberg Laureate Forum Foundation (HLFF)
-</td> 
-</tr>
-
-<tr style="border-bottom:1pt solid #eee">
-<td markdown="1">
-<img src="images/conference/AIMSrw-logo.png" width="400" height="100" />
-</td>
-<td></td>
-<td markdown="1">
-[Future of science](https://fosc.nexteinstein.org/participants/), conference Kigali, Rwanda (2019) 
-
-</td> 
-</tr>
-  
-<tr style="border-bottom:1pt solid #eee">
-<td markdown="1">
-<img src="images/conference/siam-logo.jpg" width="600" height="50" />
-</td>
-<td></td>
-<td markdown="1">
-[11th Gene Golub SIAM Summer School](https://sites.google.com/aims.ac.za/g2s3-aims-2021/people?authuser=0), on “Theory and Practice of Deep Learning”, Cape Twon, South Africa 
-
-</td> 
-</tr>  
-
-<tr style="border-bottom:1pt solid #eee">
-<td markdown="1">
-<img src="images/conference/hlf.svg" width="400" height="400" />
-</td>
-<td></td>
-<td markdown="1">
-[Heidelberg Laureate Forum (HLF)](https://www.heidelberg-laureate-forum.org/), 8th Heidelberg Laureate Forum, Germany (2021)
-
-The HLF is a networking conference where 200 carefully selected young researchers in mathematics and computer science spend a week interacting with the laureates of the disciplines: recipients of the Abel Prize, ACM A.M. Turing Award, ACM Prize in Computing, Fields Medal and Nevanlinna Prize. Established in 2013, the HLF is annually organized by the Heidelberg Laureate Forum Foundation (HLFF)
-</td> 
-</tr>
-</table>
-
----
 
 # Work Experiences
 
@@ -371,6 +297,80 @@ Having substantial expertise in Python and experience with some aspects of neura
 
 </table>
 
+---
+
+
+# Conferences and Workshops 
+
+
+---
+<table style="width:100%">
+<col width="17%">
+<col width="20">
+<col >
+
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+<img src="images/conference/CIMPA-logo.jpg" width="400" height="100" />
+</td>
+<td></td>
+<td markdown="1">
+[CIMPA](https://www.cimpa.info/), Centre International des Mathématiques Pures et Appliquées at Ecole Nationale Supérieure Polytechnique de Yaoundé, Cameroon (2018)
+  
+-Title: Application of ALgebraic Toplogy in Robotics
+  
+The Centre International de Mathématiques Pures et Appliquées (CIMPA), founded in France in 1978, is a nonprofit organisation that promotes research in Mathematics in developing countries. Located in Nice, it is a UNESCO Category 2 centre and  is part of the Laboratoire d'Excellence CARMIN (Centres d'Accueil et de Rencontres Mathématiques Internationales). It benefits from the financial support of Germany, France, Norway, Spain and Switzerland.
+</td> 
+</tr>
+  
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+<img src="images/conference/hlf.svg" width="200" height="200" />
+</td>
+<td></td>
+<td markdown="1">
+[Heidelberg Laureate Forum (HLF)](https://www.heidelberg-laureate-forum.org/), 7th Heidelberg Laureate Forum, Germany (2019)
+
+The HLF is a networking conference where 200 carefully selected young researchers in mathematics and computer science spend a week interacting with the laureates of the disciplines: recipients of the Abel Prize, ACM A.M. Turing Award, ACM Prize in Computing, Fields Medal and Nevanlinna Prize. Established in 2013, the HLF is annually organized by the Heidelberg Laureate Forum Foundation (HLFF)
+</td> 
+</tr>
+
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+<img src="images/conference/AIMSrw-logo.png" width="400" height="100" />
+</td>
+<td></td>
+<td markdown="1">
+[Future of science](https://fosc.nexteinstein.org/participants/), conference Kigali, Rwanda (2019) 
+
+</td> 
+</tr>
+  
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+<img src="images/conference/siam-logo.jpg" width="600" height="50" />
+</td>
+<td></td>
+<td markdown="1">
+[11th Gene Golub SIAM Summer School](https://sites.google.com/aims.ac.za/g2s3-aims-2021/people?authuser=0), on “Theory and Practice of Deep Learning”, Cape Twon, South Africa 
+
+</td> 
+</tr>  
+
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+<img src="images/conference/hlf.svg" width="400" height="400" />
+</td>
+<td></td>
+<td markdown="1">
+[Heidelberg Laureate Forum (HLF)](https://www.heidelberg-laureate-forum.org/), 8th Heidelberg Laureate Forum, Germany (2021)
+
+The HLF is a networking conference where 200 carefully selected young researchers in mathematics and computer science spend a week interacting with the laureates of the disciplines: recipients of the Abel Prize, ACM A.M. Turing Award, ACM Prize in Computing, Fields Medal and Nevanlinna Prize. Established in 2013, the HLF is annually organized by the Heidelberg Laureate Forum Foundation (HLFF)
+</td> 
+</tr>
+</table>
+
+---
 
 <style type="text/css">
 td {
@@ -429,6 +429,7 @@ td {
   border-collapse: collapse;
 }
 </style>
+
 
 
 
