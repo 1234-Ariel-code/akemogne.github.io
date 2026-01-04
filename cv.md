@@ -296,64 +296,6 @@ Having substantial expertise in Python and experience with some aspects of neura
 
 </table>
 
-<style type="text/css">
-td {
-    border: 0.5px;
-    vertical-align: top;
-    text-align: left;
-}
-
-.container {
-  width: 100%;
-  height: 100%;
-}
-
-.leftpane1 {
-    width: 24%;
-    height: 100%;
-    float: left;
-    border-collapse: collapse;
-}
-
-.leftpane2 {
-    width: 8%;
-    height: 100%;
-    margin: 8px;
-  	float: left;
-    border-collapse: collapse;
-}
-
-.leftpane3 {
-    width: 86%;
-    height: 100%;
-  	float: left;
-    border-collapse: collapse;
-}
-
-.leftpane4 {
-    width: 15%;
-    height: 100%;
-    margin: 8px;
-  	float: left;
-    border-collapse: collapse;
-}
-
-.leftpane5 {
-    width: 80%;
-    height: 100%;
-  	float: left;
-    border-collapse: collapse;
-}
-
-.rightpane {
-  width: 33%;
-  height: 100%;
-  float: right;
-  background-color: yellow;
-  border-collapse: collapse;
-}
-</style>
-
 ---
 
 # Conferences and Workshops 
@@ -424,6 +366,66 @@ The HLF is a networking conference where 200 carefully selected young researcher
 </td> 
 </tr>
 </table>
+
+
+<style type="text/css">
+td {
+    border: 0.5px;
+    vertical-align: top;
+    text-align: left;
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+}
+
+.leftpane1 {
+    width: 24%;
+    height: 100%;
+    float: left;
+    border-collapse: collapse;
+}
+
+.leftpane2 {
+    width: 8%;
+    height: 100%;
+    margin: 8px;
+  	float: left;
+    border-collapse: collapse;
+}
+
+.leftpane3 {
+    width: 86%;
+    height: 100%;
+  	float: left;
+    border-collapse: collapse;
+}
+
+.leftpane4 {
+    width: 15%;
+    height: 100%;
+    margin: 8px;
+  	float: left;
+    border-collapse: collapse;
+}
+
+.leftpane5 {
+    width: 80%;
+    height: 100%;
+  	float: left;
+    border-collapse: collapse;
+}
+
+.rightpane {
+  width: 33%;
+  height: 100%;
+  float: right;
+  background-color: yellow;
+  border-collapse: collapse;
+}
+</style>
+
 
 
 
