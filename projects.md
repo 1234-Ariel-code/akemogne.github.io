@@ -28,7 +28,7 @@ lang: zh
     
 -Title: Representation Learning for Unstructured Genetic Data with Applications to Polygenic Analysis of Complex Traits 
 
-My research basically focus on novel biostatistical and machine learning methods for identifying genetic factors associated with complex diseases such as cancer and cardiovascular diseases.
+My research basically focus on developing novel biostatistical and representation learning (AI/ML) methods to identify genetic factors underlying complex diseases such as cancer and cardiovascular disorders, with a strong emphasis on interpretability and mechanistic insight. My research bridges statistical genetics, deep learning, and explainable AI to improve our understanding of disease biology and heritability.
     
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
@@ -163,4 +163,5 @@ td {
     text-align: left;
 }
 </style>
+
 
