@@ -269,7 +269,7 @@ GA(T)s are appointed to provide teaching or instructional service, which might e
 </td>
 <td></td>
 <td markdown="1">
-[**VirtuClinic Inc.**](https://www.virtuclinic.ca/), Alberta-Canada, 2025 - Now 
+[**VirtuClinic Inc.**](https://www.virtuclinic.ca/), Alberta-Canada 
   
 - Artificial Intelligence (AI) Technical Lead/CTO:
 
@@ -299,7 +299,7 @@ Key Responsibilities
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
 <!-- ![lenovologo](images/main/L3S.jpg) -->
-<img src="images/main/scalelogo.png" width="400" height="200" />
+<img src="images/main/scalelogo.jpeg" width="400" height="200" />
 </td>
 <td></td>
 <td markdown="1">
@@ -425,4 +425,5 @@ td {
   border-collapse: collapse;
 }
 </style>
+
 
