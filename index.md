@@ -41,6 +41,21 @@ My [ORCID](https://orcid.org/0009-0007-1926-7695).
 
 ---
 
+### Awards 
+
+1- 2023 Alberta Innovates Graduates Scholarship, 2023-2026
+
+2- Indigenous and Black Momentum Scholarship in Science, 2022-2023
+
+3- Graduate Teaching Assistant (GAT) Excellence Award Department of Mathematics and Statistics, University of Calgary, 2024
+
+#### Innovations
+
+As an Alberta Innovates Scholar, I contribute to Alberta’s digital health ecosystem through the design and development of AI-powered Digital Health Advisors (DHAs) at VirtuClinic, in collaboration with innovation networks connected to Alberta Innovates and Technology Alberta. My work focuses on translating advanced artificial intelligence, machine learning, and natural language processing research into scalable, real-world digital health systems that enhance virtual care delivery, mental-health support, patient engagement, and healthcare operations across Alberta. I lead the technical architecture and governance of DHAs with a strong emphasis on privacy-preserving design, ensuring full compliance with Canadian health data regulations, including HIA, PIPEDA, POPA, and FOIP, and guaranteeing that no Personal Health Information is stored, processed, or transmitted by these systems. Through this work, I support Alberta’s strategic priorities in responsible AI, health system innovation, and technology commercialization by building trustworthy, regulation-compliant AI solutions that improve access to care, operational efficiency, and digital health readiness across the province.
+Digital Health Advisors (DHAs) Access: www.virtuadvisor.ca
+
+---
+
 ### Memberships
 
 1- American Society of Human Genetics (ASHG):
@@ -57,21 +72,6 @@ Member of a global, community-driven academy focused on advanced training and co
 
 5- Technology Alberta:
 Member of Alberta’s innovation ecosystem supporting technology commercialization, entrepreneurship, and industry–academic collaboration across AI, health tech, and emerging digital sectors.
-
----
-
-### Awards 
-
-1- 2023 Alberta Innovates Graduates Scholarship, 2023-2026
-
-2- Indigenous and Black Momentum Scholarship in Science, 2022-2023
-
-3- Graduate Teaching Assistant (GAT) Excellence Award Department of Mathematics and Statistics, University of Calgary, 2024
-
-#### Innovations
-
-As an Alberta Innovates Scholar, I contribute to Alberta’s digital health ecosystem through the design and development of AI-powered Digital Health Advisors (DHAs) at VirtuClinic, in collaboration with innovation networks connected to Alberta Innovates and Technology Alberta. My work focuses on translating advanced artificial intelligence, machine learning, and natural language processing research into scalable, real-world digital health systems that enhance virtual care delivery, mental-health support, patient engagement, and healthcare operations across Alberta. I lead the technical architecture and governance of DHAs with a strong emphasis on privacy-preserving design, ensuring full compliance with Canadian health data regulations, including HIA, PIPEDA, POPA, and FOIP, and guaranteeing that no Personal Health Information is stored, processed, or transmitted by these systems. Through this work, I support Alberta’s strategic priorities in responsible AI, health system innovation, and technology commercialization by building trustworthy, regulation-compliant AI solutions that improve access to care, operational efficiency, and digital health readiness across the province.
-Digital Health Advisors (DHAs) Access: www.virtuadvisor.ca
 
 ---
 
