@@ -257,6 +257,61 @@ GA(T)s are appointed to provide teaching or instructional service, which might e
 </td> 
 </tr>
 
+
+<table style="width:100%">
+<col width="17%">
+<col width="20">
+<col >
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+<!-- ![lenovologo](images/main/L3S.jpg) -->
+<img src="images/main/virtulogo.png" width="400" height="200" />
+</td>
+<td></td>
+<td markdown="1">
+[**VirtuClinic Inc.**](https://www.virtuclinic.ca/), Alberta-Canada, 2025 - Now 
+  
+- Artificial Intelligence (AI) Technical Lead/CTO:
+
+I developed AI-powered automation systems and AI digital agents- Digital Health Advisors (DHAs) to enhance healthcare and wellness services. My work focused on creating intelligent systems for lead management, patient engagement, and business analytics, driving operational efficiency and improving patient outcomes.  
+
+Key Responsibilities
+
+• Lead the technical oversight and core functionality of VirtuClinic’s Digital Health Advisors (DHAs).
+– Enhance and refine AI capabilities to deliver seamless clinical and mental-health experiences for users and clients.
+– Design, evaluate, and integrate post-experience user surveys.
+– Maintain data security, safeguard DHA trade secrets, and manage system integrity.
+– Build and manage sub-user groups for client-specific deployments.
+– Improve geo-location services for both users and VirtuClinic customers.
+– Ensure full compliance with HIA, PIPEDA, POPA, FOIP, and all legislation governing the protection of Personal Health Information (PHI), ensuring that no PHI is stored, used, or transmitted.
+
+• Collaborate, design, implement, and monitor agentic AI applications across VirtuClinic.
+– Develop and deploy open-source AI agents for business operations, customer discovery, web scraping, customer service, workflow automation, lead scoring, and identification of key decision-makers and business owners.
+
+• Provide expert leadership in Artificial Intelligence, Natural Language Processing, and Machine Learning to support organizational learning, innovation, and technical development. 
+</td> 
+</tr>
+
+<table style="width:100%">
+<col width="17%">
+<col width="20">
+<col >
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+<!-- ![lenovologo](images/main/L3S.jpg) -->
+<img src="images/main/scalelogo.png" width="400" height="200" />
+</td>
+<td></td>
+<td markdown="1">
+[**Scale AI Lab, Center for AI Safety, Outlier**](https://scale.com/blog/new-era-outlier), 2024 - Now 
+  
+- Prompt Engineer - AI Quality Control:
+
+In collaboration with the Center for AI Safety, Outlier, and Scale AI Lab, I focused on enhancing LLM capabilities in reasoning, summarization, and general knowledge. One of my key achievements was co-developing Humanity's Last Exam (HLE) benchmark, designed to evaluate LLM performance on complex academic questions.
+</td> 
+</tr>
+
+
 <table style="width:100%">
 <col width="17%">
 <col width="20">
@@ -370,3 +425,4 @@ td {
   border-collapse: collapse;
 }
 </style>
+
