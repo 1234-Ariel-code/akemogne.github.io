@@ -303,7 +303,7 @@ Key Responsibilities
 </td>
 <td></td>
 <td markdown="1">
-[**Scale AI Lab, Center for AI Safety, Outlier**](https://scale.com/blog/new-era-outlier), 2024 - Now 
+[**Scale AI Lab, Center for AI Safety, Outlier**](https://scale.com/blog/new-era-outlier)
   
 - Prompt Engineer - AI Quality Control:
 
@@ -425,5 +425,6 @@ td {
   border-collapse: collapse;
 }
 </style>
+
 
 
