@@ -119,6 +119,8 @@ My research interests include but not limited to:
 
 ### News
 - [July 2025] Oral Talk, BIRS Workshop, "Novel Statistical Approaches for Studying Multi-omics Data", July 13 - 18, 2025, Banff International Research Station, Banff, AB, Canada
+
+- [December 2024] NeurIPS 2024, Participant at NeurIPS (Neural Information Processing Systems) conference, Vancouver Convention Center, Canada (2024)
   
 - [September 2023] Happy to be part of the reviewers of short papers of Deep Learning Indaba conference 2023, Ghana
   
