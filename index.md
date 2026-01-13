@@ -38,6 +38,7 @@ My academic foundation is in Mathematics and Computer Science, with a focus on M
 My professional experience includes data science roles at [ICRISAT/MANOBI](https://www.manobi.com/) and teaching assistant positions at [Neuromatch Academy (NMA)](https://academy.neuromatch.io/), focusing on deep learning and neuroscience. Currently, as a part of [Quan Long's Lab](https://sites.google.com/site/quanlongresearch/group-members?authuser=0) at the [University of Calgary](https://www.ucalgary.ca/), I am enthusiastically applying my combined expertise in statistics and machine intelligence to address real-world challenges.
 
 More on [ORCID](https://orcid.org/0009-0007-1926-7695).
+
 Language: French (Native) & English (Fluent).
 
 ---
