@@ -232,11 +232,11 @@ Key Responsibilities
 </td>
 <td></td>
 <td markdown="1">
-[**Scale AI Lab, Center for AI Safety, Outlier**](https://scale.com/blog/new-era-outlier)
+[**Scale AI Lab, Center for AI Safety, Outlier**](https://scale.com/blog/new-era-outlier) and [**PortexAI**](https://datalab.portexai.com/)
   
 - Prompt Engineer - AI Quality Control:
 
-In collaboration with the Center for AI Safety, Outlier, and Scale AI Lab, I focused on enhancing LLM capabilities in reasoning, summarization, and general knowledge. One of my key achievements was co-developing Humanity's Last Exam (HLE) benchmark, designed to evaluate LLM performance on complex academic questions.
+In collaboration with the Center for AI Safety, Outlier, PortexAI and Scale AI Lab, I focused on enhancing LLM capabilities in reasoning, summarization, and general knowledge. One of my key achievements was co-developing Humanity's Last Exam (HLE) benchmark, designed to evaluate LLM performance on complex academic questions.
 </td> 
 </tr>
 
@@ -423,6 +423,7 @@ td {
   border-collapse: collapse;
 }
 </style>
+
 
 
 
