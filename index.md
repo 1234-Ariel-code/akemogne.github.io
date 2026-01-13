@@ -120,6 +120,8 @@ My research interests include but not limited to:
 ---
 
 ### News
+- [February 2026] Serving as a Teaching Assistant for the UCBC Statistical Data Privacy Workshop, University of Calgary Biostatistics Centre. The workshop covers practical statistical data privacy methods, including synthetic data generation and differential privacy, with a talk by Dr. Anne-Sophie Charest (Université Laval), February 18, 2026.
+
 - [July 2025] Oral Talk, BIRS Workshop, "Novel Statistical Approaches for Studying Multi-omics Data", July 13 - 18, 2025, Banff International Research Station, Banff, AB, Canada
 
 - [December 2024] NeurIPS 2024, Participant at NeurIPS (Neural Information Processing Systems) conference, Vancouver Convention Center, Canada (2024)
