@@ -12,7 +12,7 @@ lang: zh
 {% assign posts_collate = site.categories.projects %}
 {% include JB/posts_collate %}
 
-- **Kemogne A** as a HLE Contributors: Center for AI Safety., Scale AI. & HLE Contributors Consortium. A benchmark of expert-level academic questions to assess AI capabilities. **Nature** 649, 1139–1146 (2026). https://doi.org/10.1038/s41586-025-09962-4
+- **Kemogne A** as a HLE Contributor: Center for AI Safety., Scale AI. & HLE Contributors Consortium. A benchmark of expert-level academic questions to assess AI capabilities. **Nature** 649, 1139–1146 (2026). https://doi.org/10.1038/s41586-025-09962-4
   
 - Phan, L., Gatti, A., Han, Z., Li, N., Hu, J., Zhang, H., ... **Kemogne A** ...  & Wykowski, J. (2025). Humanity's last exam. arXiv preprint arXiv:2501.14249.
 
