@@ -18,7 +18,7 @@ lang: zh
 
 - **Kemogne A**, Enoma D, Weeraman J, Wang D, Chernenkoff S, Li C, Chekouo T, Zhang Q, Long Q# (2026+) “Quantile-Gated Variational Autoencoder: Applications to High-Dimensional Genomic Data of Small Sample Sizes”. Under review. 
 
-- David Enoma, Dinghao Wang, **Ariel Ghislain Kemogne Kamdoum**, Rodrigo Ortega Polo, Quan Long, Jingni He, MOKA: a pipeline for multiomics bridged SNP-set kernel association test, G3 Genes|Genomes|Genetics, Volume 16, Issue 2, February 2026, jkaf296, https://doi.org/10.1093/g3journal/jkaf296
+- David Enoma, Dinghao Wang, **Ariel Ghislain Kemogne Kamdoum**, Rodrigo Ortega Polo, Quan Long, Jingni He, MOKA: a pipeline for multiomics bridged SNP-set kernel association test, G3 Genes-Genomes-Genetics, Volume 16, Issue 2, February 2026, jkaf296, https://doi.org/10.1093/g3journal/jkaf296
 
 - Enoma D, Chu H, Wang D, Shu L, **Kemogne A**, Weeraman J, Gordon PMK, de Koning J, Arnold P, Ortega Polo R, Long Q#. (2026+) “Representation learning-based genome-wide association mapping discovers genes underlying complex traits”. Under review.  
 
