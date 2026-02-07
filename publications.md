@@ -14,7 +14,7 @@ lang: zh
 
 - Center for AI Safety., Scale AI. & HLE Contributors Consortium (**Ariel Ghislain Kemogne Kamdoum**). A benchmark of expert-level academic questions to assess AI capabilities. **Nature** 649, 1139–1146 (2026). https://doi.org/10.1038/s41586-025-09962-4
   
-- Phan, L., Gatti, A., Han, Z., Li, N., Hu, J., Zhang, H., ... **Kemogne A** ...  & Wykowski, J. (2025). Humanity's last exam. arXiv preprint arXiv:2501.14249.
+- Phan, L., Gatti, A., Han, Z., Li, N., Hu, J., Zhang, H., ... **Ariel Ghislain Kemogne Kamdoum** ...  & Wykowski, J. (2025). Humanity's last exam. arXiv preprint arXiv:2501.14249.
 
 - **Kemogne A**, Enoma D, Weeraman J, Wang D, Chernenkoff S, Li C, Chekouo T, Zhang Q, Long Q# (2026+) “Quantile-Gated Variational Autoencoder: Applications to High-Dimensional Genomic Data of Small Sample Sizes”. Under review. 
 
