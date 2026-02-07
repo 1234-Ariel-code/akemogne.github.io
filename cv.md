@@ -296,8 +296,11 @@ Having substantial expertise in Python and experience with some aspects of neura
 </tr>
 </table>
 
+---
 
 # Conferences and Workshops 
+
+---
 
 <table style="width:100%">
 <col width="17%">
@@ -423,6 +426,7 @@ td {
   border-collapse: collapse;
 }
 </style>
+
 
 
 
