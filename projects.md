@@ -26,7 +26,7 @@ lang: zh
 <td markdown="1">
 [**University of Calgary**](https://www.ucalgary.ca/)
     
--PhD Research: Representation Learning for Unstructured Genetic Data with Applications to Polygenic Analysis of Complex Traits 
+- PhD Research: Representation Learning for Unstructured Genetic Data with Applications to Polygenic Analysis of Complex Traits 
 
 My research basically focus on developing novel biostatistical and representation learning (AI/ML) methods to identify genetic factors underlying complex diseases such as cancer and cardiovascular disorders, with a strong emphasis on interpretability and mechanistic insight. My research bridges statistical genetics, deep learning, and explainable AI to improve our understanding of disease biology and heritability.
     
@@ -163,6 +163,7 @@ td {
     text-align: left;
 }
 </style>
+
 
 
 
