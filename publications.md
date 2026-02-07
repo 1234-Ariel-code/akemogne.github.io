@@ -12,7 +12,9 @@ lang: zh
 {% assign posts_collate = site.categories.projects %}
 {% include JB/posts_collate %}
 
-My contributions at [Google Scholar](https://scholar.google.com/citations?user=q7dQio4AAAAJ).
+Center for AI Safety., Scale AI. & HLE Contributors Consortium. A benchmark of expert-level academic questions to assess AI capabilities. **Nature** 649, 1139–1146 (2026). https://doi.org/10.1038/s41586-025-09962-4
+
+More contributions at [Google Scholar](https://scholar.google.com/citations?user=q7dQio4AAAAJ).
 
 
 
