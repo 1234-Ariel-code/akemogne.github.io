@@ -43,17 +43,16 @@ Language: French (Native) & English (Fluent).
 
 ---
 
-### Teaching (Winter 2026)
+### Research Interests
+My research interests include but not limited to:
 
-Graduate Teaching Assistant at University of Calgary, Alberta, Canada:
+- Artificial Intelligence (AI)
 
-1- STAT 205: Introduction to Statistical Inquiry
+- Machine learning/Deep Learning (Representation learning, Deep learning, Optimization)
 
-An applied introduction to statistical thinking, focusing on data collection, exploratory data analysis, probability concepts, statistical inference, confidence intervals, hypothesis testing, and real-world data interpretation.
-
-2- STAT 323: Introduction to Theoretical Statistics
-
-A mathematically grounded course covering probability theory, random variables, common distributions, expectations, sampling distributions, and the theoretical foundations underlying statistical inference.
+- Statistical genetics
+  
+- Biostatistics/Bioinformatics
 
 ---
 
@@ -65,10 +64,11 @@ A mathematically grounded course covering probability theory, random variables, 
 
 3- Graduate Teaching Assistant (GAT) Excellence Award Department of Mathematics and Statistics, University of Calgary, 2024
 
-Innovations:  
+### Innovations
+
 As an Alberta Innovates Scholar, I contribute to Alberta’s digital health ecosystem through the design and development of AI-powered Digital Health Advisors (DHAs) at VirtuClinic Inc., in collaboration with innovation networks connected to Alberta Innovates and Technology Alberta. My work focuses on translating advanced artificial intelligence, machine learning, and natural language processing research into scalable, real-world digital health systems that enhance virtual care delivery, mental-health support, patient engagement, and healthcare operations across Alberta. I lead the technical architecture and governance of DHAs with a strong emphasis on privacy-preserving design, ensuring full compliance with Canadian health data regulations, including HIA, PIPEDA, POPA, and FOIP, and guaranteeing that no Personal Health Information is stored, processed, or transmitted by these systems. Through this work, I support Alberta’s strategic priorities in responsible AI, health system innovation, and technology commercialization by building trustworthy, regulation-compliant AI solutions that improve access to care, operational efficiency, and digital health readiness across the province.
 
-Digital Health Advisors (DHAs) Access: www.virtuadvisor.ca
+Please [chat](www.virtuadvisor.ca) with the Digital Health Advisors.  
 
 ---
 
@@ -91,17 +91,17 @@ Member of Alberta’s innovation ecosystem supporting technology commercializati
 
 ---
 
-### Research Interests
-My research interests include but not limited to:
+### Teaching (Winter 2026)
 
-- Artificial Intelligence (AI)
+Graduate Teaching Assistant at University of Calgary, Alberta, Canada:
 
-- Machine learning/Deep Learning (Representation learning, Deep learning, Optimization)
+1- STAT 205: Introduction to Statistical Inquiry
 
-- Statistical genetics
-  
-- Biostatistics/Bioinformatics
+An applied introduction to statistical thinking, focusing on data collection, exploratory data analysis, probability concepts, statistical inference, confidence intervals, hypothesis testing, and real-world data interpretation.
 
+2- STAT 323: Introduction to Theoretical Statistics
+
+A mathematically grounded course covering probability theory, random variables, common distributions, expectations, sampling distributions, and the theoretical foundations underlying statistical inference.
 
 ---
 
