@@ -68,7 +68,7 @@ My research interests include but not limited to:
 
 As an Alberta Innovates Scholar, I contribute to Alberta’s digital health ecosystem through the design and development of AI-powered Digital Health Advisors (DHAs) at VirtuClinic Inc., in collaboration with innovation networks connected to Alberta Innovates and Technology Alberta. My work focuses on translating advanced artificial intelligence, machine learning, and natural language processing research into scalable, real-world digital health systems that enhance virtual care delivery, mental-health support, patient engagement, and healthcare operations across Alberta. I lead the technical architecture and governance of DHAs with a strong emphasis on privacy-preserving design, ensuring full compliance with Canadian health data regulations, including HIA, PIPEDA, POPA, and FOIP, and guaranteeing that no Personal Health Information is stored, processed, or transmitted by these systems. Through this work, I support Alberta’s strategic priorities in responsible AI, health system innovation, and technology commercialization by building trustworthy, regulation-compliant AI solutions that improve access to care, operational efficiency, and digital health readiness across the province.
 
-Please [chat](www.virtuadvisor.ca) with the Digital Health Advisors.  
+Please give it a [chat](www.virtuadvisor.ca) with the Digital Health Advisors and please share your [feedbacks](https://docs.google.com/forms/d/e/1FAIpQLSe6zfiql3ZGmUO5Q1SUIj2X8DJLGxUaO14XAqJOnNNi4cB7qA/viewform?usp=sharing&ouid=105488904174897357821).  
 
 ---
 
