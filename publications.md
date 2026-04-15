@@ -16,6 +16,8 @@ lang: zh
   
 - Phan, L., Gatti, A., Han, Z., Li, N., Hu, J., Zhang, H., ... **Ariel Ghislain Kemogne Kamdoum** ...  & Wykowski, J. (2025). Humanity's last exam. arXiv preprint arXiv:2501.14249.
 
+- Waters, K., Nuzzi, L., Looram, T., Tomasiello, A., **Kemogne Kamdoum, A. G.**, Li, B., Sileo, D., Kretov, E., Fournier-Facio, F., Soloupis, G., Kassahun, H., Wolff, H., Cai, J., Li, L., Roth, M., Naiya, M., Guo, N., Tang, Q., Wheeler, R., Sala, S., Popov, S., Dillman, S., & Li, Y. (2026). *COMPOSITE-Stem*. arXiv preprint arXiv:2604.09836. https://doi.org/10.48550/arXiv.2604.09836
+
 - **Kemogne A**, Enoma D, Weeraman J, Wang D, Chernenkoff S, Li C, Chekouo T, Zhang Q, Long Q# (2026+) “Quantile-Gated Variational Autoencoder: Applications to High-Dimensional Genomic Data of Small Sample Sizes”. Under review. 
 
 - David Enoma, Dinghao Wang, **Ariel Ghislain Kemogne Kamdoum**, Rodrigo Ortega Polo, Quan Long, Jingni He, MOKA: a pipeline for multiomics bridged SNP-set kernel association test, G3 Genes-Genomes-Genetics, Volume 16, Issue 2, February 2026, jkaf296, https://doi.org/10.1093/g3journal/jkaf296
