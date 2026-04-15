@@ -58,11 +58,14 @@ My research interests include but not limited to:
 
 ### Awards 
 
-1- 2023 Alberta Innovates Graduates Scholarship, 2023-2026
+1- Selected for the **Student Research Presentation Awards**, Statistical Society of Canada (SSC) Annual Meeting, 2026  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recognized for the presentation of: **Kemogne A**, Weeraman J, Wang D, Enoma D, Li C, Ganeshiny S, Chernenkoff S, Chekouo T, Zhang Q, Long Q# (2026+) *“Genomic Variational Autoencoder enables stable representation learning in high-dimensional genomic data with moderate sample sizes”*. Under review.
 
-2- Indigenous and Black Momentum Scholarship in Science, 2022-2023
+2- 2023 Alberta Innovates Graduates Scholarship, 2023-2026
 
-3- Graduate Teaching Assistant (GAT) Excellence Award Department of Mathematics and Statistics, University of Calgary, 2024
+3- Indigenous and Black Momentum Scholarship in Science, 2022-2023
+
+4- Graduate Teaching Assistant (GAT) Excellence Award Department of Mathematics and Statistics, University of Calgary, 2024
 
 ---
 
