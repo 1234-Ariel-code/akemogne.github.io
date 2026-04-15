@@ -59,7 +59,7 @@ My research interests include but not limited to:
 ### Awards 
 
 1- Selected for the Student Research Presentation Awards, Statistical Society of Canada (SSC) Annual Meeting, 2026  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recognized for the presentation of my work on: *“Genomic Variational Autoencoder enables stable representation learning in high-dimensional genomic data with moderate sample sizes”*. Under review.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recognized for the presentation of my work on: *“Genomic Variational Autoencoder enables stable representation learning in high-dimensional genomic data with moderate sample sizes”*.
 
 2- 2023 Alberta Innovates Graduates Scholarship, 2023-2026
 
