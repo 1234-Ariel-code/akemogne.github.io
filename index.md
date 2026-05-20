@@ -59,7 +59,7 @@ My research interests include but not limited to:
 ### Awards 
 
 1- Selected for the Student Research Presentation Awards, Statistical Society of Canada (SSC) Annual Meeting, 2026  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recognized for the presentation of my work on: *“Genomic Variational Autoencoder enables stable representation learning in high-dimensional genomic data with moderate sample sizes”*.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recognized for the presentation of my work on: *“gVAE: Stable and interpretable representation learning for high-dimensional genomic cohorts with moderate sample sizes”*.
 
 2- 2023 Alberta Innovates Graduates Scholarship, 2023-2026
 
@@ -125,7 +125,7 @@ A mathematically grounded course covering probability theory, random variables, 
 ---
 
 ### News
-- [May 2026] I will be presenting an oral talk at the **2026 Statistical Society of Canada (SSC) Annual Meeting** at **McMaster University, Hamilton, Ontario**, for the **Student Research Presentation Awards**, on my work: *“Genomic Variational Autoencoder enables stable representation learning in high-dimensional genomic data with moderate sample sizes”*.
+- [May 2026] I will be presenting an oral talk at the **2026 Statistical Society of Canada (SSC) Annual Meeting** at **McMaster University, Hamilton, Ontario**, for the **Student Research Presentation Awards**, on my work: *“gVAE: Stable and interpretable representation learning for high-dimensional genomic cohorts with moderate sample sizes”*.
   
 - [February 2026] Serving as a Teaching Assistant for the UCBC Statistical Data Privacy Workshop, University of Calgary Biostatistics Centre. The workshop covers practical statistical data privacy methods, including synthetic data generation and differential privacy, with a talk by Dr. Anne-Sophie Charest (Université Laval), February 18, 2026.
 
