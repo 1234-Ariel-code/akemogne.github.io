@@ -3,492 +3,410 @@ layout: page
 title: "Curriculum Vitae"
 tagline : ""
 use_math: true
-lang: en
+lang: zh
 ---
 {% include JB/setup %}
 
-<div class="cv-intro">
-  <p>
-    This page provides a structured overview of my academic training, technical skills,
-    professional experience, and selected scientific activities.
-  </p>
+<!-- <div class="page-header">
+  <div class="pull-right">
+    {% include contact_icons %}
+  </div>
+</div> -->
 
-  <p>
-    <a class="cv-button" href="https://1234-ariel-code.github.io/akemogne.github.io/archive/CV_Ariel-Ghislain-Kemogne-Kamdoum.pdf" target="_blank">
-      Download full CV PDF
-    </a>
-  </p>
-</div>
+{% assign posts_collate = site.categories.projects %}
+{% include JB/posts_collate %}
+
+CV in [PDF](https://1234-ariel-code.github.io/akemogne.github.io/archive/CV_Ariel-Ghislain-Kemogne-Kamdoum.pdf) version.
 
 ---
 
 # Education
+---
 
-<div class="cv-section">
+<table style="width:100%">
+<col width="9%">
+<col width="20">
+<col >
 
-  <div class="cv-card">
-    <div class="cv-logo">
-      <img src="https://1234-ariel-code.github.io/akemogne.github.io/images/main/UofC.png" alt="University of Calgary logo">
-    </div>
-    <div class="cv-content">
-      <div class="cv-header">
-        <h3><a href="https://www.ucalgary.ca/">University of Calgary</a>, Canada</h3>
-        <span>Jan. 2022 – Jan. 2026</span>
-      </div>
-      <p><strong>Ph.D. in Biostatistics</strong></p>
-      <p>Supervisor: <a href="https://cumming.ucalgary.ca/departments/bmb/profiles/dr-quan-long">Dr. Quan Long</a></p>
-    </div>
-  </div>
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+![hkulogo](https://1234-ariel-code.github.io/akemogne.github.io/images/main/UofC.png)
+</td>
+<td></td>
+<td markdown="1">
+[**University of Calgary, Canada**](https://www.ucalgary.ca/), 01/2022 - 01/2026 
+- **Ph.D in Biostatistics**
+- Supervisor: [Dr. Quan Long](https://cumming.ucalgary.ca/departments/bmb/profiles/dr-quan-long)
+</td> 
+</tr>
 
-  <div class="cv-card">
-    <div class="cv-logo">
-      <img src="https://1234-ariel-code.github.io/akemogne.github.io/images/main/univ_ghana.jpg" alt="University of Ghana logo">
-    </div>
-    <div class="cv-content">
-      <div class="cv-header">
-        <h3><a href="https://www.ug.edu.gh/">University of Ghana / AMMI Ghana</a></h3>
-        <span>Oct. 2019 – Oct. 2020</span>
-      </div>
-      <p><strong>M.Sc. in Machine Intelligence</strong></p>
-      <p>Supervisor: <a href="https://nexteinstein.org/person/moustapha-cisse/">Dr. Moustapha Cissé</a></p>
-      <p>Thesis: <em>Optimization and Generalization of Shallow Neural Networks with Quadratic Activation Functions</em></p>
-      <p class="cv-note">Full scholarship funded by Facebook and Google through <a href="https://aimsammi.org/">AMMI</a>.</p>
-    </div>
-  </div>
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+![hkulogo](https://1234-ariel-code.github.io/akemogne.github.io/images/main/univ_ghana.jpg)
+</td>
+<td></td>
+<td markdown="1">
+[**University of Ghana, (African Masters of Machine Intelligence (AMMI, Ghana)**](https://www.ug.edu.gh/), 10/2019 - 10/2020 
+- **Msc in Machine Intelligence**
+- Supervisor: [Dr. Moustapha Cisse](https://nexteinstein.org/person/moustapha-cisse/)
+- Thesis: Optimization and Generalization of Shallow Neural Networks with Quadratic Activation Functions
+- *Full scolarship by Facebook and Google, [AMMI](https://aimsammi.org/)*
+</td> 
+</tr>
 
-  <div class="cv-card">
-    <div class="cv-logo">
-      <img src="https://1234-ariel-code.github.io/akemogne.github.io/images/main/AIMSSn-logo.jpeg" alt="AIMS Senegal logo">
-    </div>
-    <div class="cv-content">
-      <div class="cv-header">
-        <h3><a href="https://aims-senegal.org/">African Institute for Mathematical Sciences, Senegal</a></h3>
-        <span>Aug. 2018 – Jun. 2019</span>
-      </div>
-      <p><strong>M.Sc. in Mathematical Sciences</strong></p>
-      <p>Supervisor: Dr. André Saint Eudes Mialebama Bouesso</p>
-      <p>Thesis: <em>Abelian Extensions and Crossed Modules for Lie Algebras</em></p>
-      <p class="cv-note">Full scholarship funded by the MasterCard Foundation through AIMS Senegal.</p>
-    </div>
-  </div>
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+![hkulogo](https://1234-ariel-code.github.io/akemogne.github.io/images/main/AIMSSn-logo.jpeg)
+</td>
+<td></td>
+<td markdown="1">
+[**African Institute for Mathematical Sciences, (AIMS Senegal)**](https://aims-senegal.org/), 08/2018 - 06/2019 
+- **Msc in Mathematical Sciences**
+- Supervisor: Dr. Andre Saint Eudes MIALEBAMA BOUESSO, PhD, Marien Ngouabi University, Brazzaville , Congo
+- Thesis: Abelian extension and crossed module for Lie algebras
+- *Full scolarship by MasterCard Foundation, [AIMS Senegal](https://aims-senegal.org/)*
+</td> 
+</tr>
 
-  <div class="cv-card">
-    <div class="cv-logo">
-      <img src="https://1234-ariel-code.github.io/akemogne.github.io/images/main/UDS-logo.png" alt="University of Dschang logo">
-    </div>
-    <div class="cv-content">
-      <div class="cv-header">
-        <h3><a href="https://www.univ-dschang.org/">University of Dschang</a>, Cameroon</h3>
-        <span>2016 – 2018</span>
-      </div>
-      <p><strong>Master’s Degree in Mathematics</strong></p>
-      <p>Supervisor: Dr. Calvin Tcheka</p>
-      <p>Thesis: <em>(Co)homologie des espaces de configuration</em></p>
-    </div>
-  </div>
 
-  <div class="cv-card">
-    <div class="cv-logo">
-      <img src="https://1234-ariel-code.github.io/akemogne.github.io/images/main/UDS-logo.png" alt="University of Dschang logo">
-    </div>
-    <div class="cv-content">
-      <div class="cv-header">
-        <h3><a href="https://www.univ-dschang.org/">University of Dschang</a>, Cameroon</h3>
-        <span>2012 – 2016</span>
-      </div>
-      <p><strong>B.Sc. in Mathematics and Computer Science</strong></p>
-    </div>
-  </div>
+<tr height="10"/>
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+![ustclogo](https://1234-ariel-code.github.io/akemogne.github.io/images/main/UDS-logo.png)
+</td>
+<td></td>
+<td markdown="1">
+[**University of Dschang**](https://www.univ-dschang.org/), 2016 - 2018
+- **Master's degree in Mathematics**
+- Supervisor: Dr. Calvin Tcheka
+- Thesis: (Co)homologie des espaces de configuration
+</td> 
+</tr>
+  
+<tr height="10"/>
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+![ustclogo](https://1234-ariel-code.github.io/akemogne.github.io/images/main/UDS-logo.png)
+</td>
+<td></td>
+<td markdown="1">
+[**University of Dschang**](https://www.univ-dschang.org/), 2012 - 2016
+- **Bsc in Mathematics and Computer Science**
+</td> 
+</tr>  
 
-</div>
+  
+</table>
 
 ---
 
 # Skills
+---
+<div class="container">
+<div class="leftpane1" markdown="1">
 
-<div class="skills-grid">
+#### Programming 
+  
+- Python 
+  
+- R  
+  
+- Java 
+  
+- Matlab/Octave
+  
+</div>
+  
+<div class="leftpane1" markdown="1">
 
-  <div class="skill-card">
-    <h4>Programming</h4>
-    <p>Python, R, Java, MATLAB/Octave</p>
-  </div>
+#### Libraries 
+  
+- PyTorch 
+  
+- TensorFlow 
+  
+- Sklearn
+  
+</div>
+  
+<div class="leftpane1" markdown="1">
 
-  <div class="skill-card">
-    <h4>Machine Learning Libraries</h4>
-    <p>PyTorch, TensorFlow, scikit-learn</p>
-  </div>
+#### Tools 
+  
+- Git 
 
-  <div class="skill-card">
-    <h4>Tools</h4>
-    <p>Git, LaTeX, Jupyter, Linux/HPC</p>
-  </div>
+- LaTeX
+  
+</div>
 
-  <div class="skill-card">
-    <h4>Languages</h4>
-    <p>English, French</p>
-  </div>
+<div class="leftpane1" markdown="1">
 
+#### Language 
+
+- English(Fluent) 
+
+- French(Fluent)
+  
+</div>
 </div>
 
 ---
 
-# Professional Experience
 
-<div class="cv-section">
-
-  <div class="cv-card">
-    <div class="cv-logo">
-      <img src="images/main/UofC.png" alt="University of Calgary logo">
-    </div>
-    <div class="cv-content">
-      <div class="cv-header">
-        <h3><a href="https://www.ucalgary.ca/">University of Calgary</a></h3>
-        <span>2022 – Present</span>
-      </div>
-      <p><strong>Graduate Teaching Assistant</strong></p>
-      <p>
-        Faculty of Medicine and Department of Mathematics and Statistics.
-      </p>
-      <ul>
-        <li>Supported teaching, tutorials, grading, office hours, and instructional preparation.</li>
-        <li>Assisted students in biostatistics, mathematics, and data-analysis-related coursework.</li>
-        <li>Contributed to laboratory supervision and academic support activities.</li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="cv-card">
-    <div class="cv-logo">
-      <img src="images/main/virtulogo.png" alt="VirtuClinic logo">
-    </div>
-    <div class="cv-content">
-      <div class="cv-header">
-        <h3><a href="https://www.virtuclinic.ca/">VirtuClinic Inc.</a>, Alberta, Canada</h3>
-        <span>2024 – Present</span>
-      </div>
-      <p><strong>Artificial Intelligence Technical Lead / CTO</strong></p>
-      <p>
-        Led the design and deployment of AI-powered automation systems and Digital Health Advisors
-        to support healthcare, wellness, patient engagement, and business operations.
-      </p>
-      <ul>
-        <li>Designed and improved AI Digital Health Advisors for client-facing healthcare and wellness services.</li>
-        <li>Developed AI agents for customer discovery, workflow automation, web scraping, lead scoring, and business analytics.</li>
-        <li>Supported technical strategy in machine learning, natural language processing, and agentic AI systems.</li>
-        <li>Contributed to data governance practices aligned with privacy and health-information protection requirements.</li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="cv-card">
-    <div class="cv-logo">
-      <img src="images/main/scalelogo.jpeg" alt="Scale AI logo">
-    </div>
-    <div class="cv-content">
-      <div class="cv-header">
-        <h3>
-          <a href="https://scale.com/blog/new-era-outlier">Scale AI / Outlier / Center for AI Safety</a> and
-          <a href="https://datalab.portexai.com/">PortexAI</a>
-        </h3>
-        <span>2024 – Present</span>
-      </div>
-      <p><strong>Prompt Engineer / AI Quality Control Contributor</strong></p>
-      <p>
-        Contributed to the evaluation and improvement of large language models, with a focus on
-        reasoning, summarization, and general knowledge.
-      </p>
-      <ul>
-        <li>Developed and reviewed advanced prompts for benchmarking frontier AI systems.</li>
-        <li>Contributed to high-difficulty scientific and academic evaluation tasks.</li>
-        <li>Participated in work related to large-scale AI benchmark development, including Humanity’s Last Exam.</li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="cv-card">
-    <div class="cv-logo">
-      <img src="images/main/NMA-logo.jpeg" alt="Neuromatch Academy logo">
-    </div>
-    <div class="cv-content">
-      <div class="cv-header">
-        <h3><a href="https://academy.neuromatch.io/">Neuromatch Academy</a></h3>
-        <span>2022 – Present</span>
-      </div>
-      <p><strong>Production Team Member and Teaching Assistant in Deep Learning / Neuroscience</strong></p>
-      <p>
-        Supported students in computational neuroscience and deep learning through tutorials,
-        project guidance, and technical mentoring.
-      </p>
-    </div>
-  </div>
-
-  <div class="cv-card">
-    <div class="cv-logo">
-      <img src="images/main/manobi-logo.png" alt="MANOBI Africa logo">
-    </div>
-    <div class="cv-content">
-      <div class="cv-header">
-        <h3><a href="http://www.manobi.com/">ICRISAT / MANOBI Africa</a></h3>
-        <span>2021 – 2022</span>
-      </div>
-      <p><strong>Data Scientist</strong></p>
-    </div>
-  </div>
-
-  <div class="cv-card">
-    <div class="cv-logo">
-      <img src="images/main/UDS-logo.png" alt="University of Dschang logo">
-    </div>
-    <div class="cv-content">
-      <div class="cv-header">
-        <h3><a href="https://www.univ-dschang.org/">University of Dschang</a>, Cameroon</h3>
-        <span>2016 – 2018</span>
-      </div>
-      <p><strong>Teaching Assistant in Mathematics</strong></p>
-    </div>
-  </div>
-
-</div>
+# Work Experiences
 
 ---
 
-# Selected Academic and Scientific Activities
+<table style="width:100%">
+<col width="17%">
+<col width="20">
+<col >
 
-<div class="cv-section">
+<table style="width:100%">
+<col width="17%">
+<col width="20">
+<col >
 
-  <div class="cv-card compact">
-    <div class="cv-logo">
-      <img src="images/conference/CIMPA-logo.jpg" alt="CIMPA logo">
-    </div>
-    <div class="cv-content">
-      <div class="cv-header">
-        <h3><a href="https://www.cimpa.info/">CIMPA Research School</a></h3>
-        <span>2018</span>
-      </div>
-      <p><strong>Centre International de Mathématiques Pures et Appliquées</strong>, Yaoundé, Cameroon.</p>
-      <p>Topic: <em>Application of Algebraic Topology in Robotics</em>.</p>
-    </div>
-  </div>
+<table style="width:100%">
+<col width="17%">
+<col width="20">
+<col >
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+<!-- ![lenovologo](images/main/L3S.jpg) -->
+<img src="images/main/UofC.png" width="400" height="200" />
+</td>
+<td></td>
+<td markdown="1">
+[**University of Calgary**](https://www.ucalgary.ca/), 2022 - Now 
+  
+Graduate Teaching Assistant, Faculty of Medicine and Dept of Mathematics and Statistics:
+  
+GA(T)s are appointed to provide teaching or instructional service, which might encompass lecturing assistance, laboratory supervision, office hours, grading assignments, tutorial direction, assistance in preparation of demonstration and instructional aids, and other related academic duties. 
+</td> 
+</tr>
 
-  <div class="cv-card compact">
-    <div class="cv-logo">
-      <img src="images/conference/hlf.svg" alt="Heidelberg Laureate Forum logo">
-    </div>
-    <div class="cv-content">
-      <div class="cv-header">
-        <h3><a href="https://www.heidelberg-laureate-forum.org/">Heidelberg Laureate Forum</a></h3>
-        <span>2019 and 2021</span>
-      </div>
-      <p>
-        Selected participant at the 7th and 8th Heidelberg Laureate Forum, Germany.
-      </p>
-    </div>
-  </div>
 
-  <div class="cv-card compact">
-    <div class="cv-logo">
-      <img src="images/conference/AIMSrw-logo.png" alt="AIMS Rwanda logo">
-    </div>
-    <div class="cv-content">
-      <div class="cv-header">
-        <h3><a href="https://fosc.nexteinstein.org/participants/">Future of Science Conference</a></h3>
-        <span>2019</span>
-      </div>
-      <p>Kigali, Rwanda.</p>
-    </div>
-  </div>
+<table style="width:100%">
+<col width="17%">
+<col width="20">
+<col >
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+<!-- ![lenovologo](images/main/L3S.jpg) -->
+<img src="images/main/virtulogo.png" width="400" height="200" />
+</td>
+<td></td>
+<td markdown="1">
+[**VirtuClinic Inc.**](https://www.virtuclinic.ca/), Alberta-Canada 
+  
+Artificial Intelligence (AI) Technical Lead/CTO:
 
-  <div class="cv-card compact">
-    <div class="cv-logo">
-      <img src="images/conference/siam-logo.jpg" alt="SIAM logo">
-    </div>
-    <div class="cv-content">
-      <div class="cv-header">
-        <h3><a href="https://sites.google.com/aims.ac.za/g2s3-aims-2021/people?authuser=0">11th Gene Golub SIAM Summer School</a></h3>
-        <span>2021</span>
-      </div>
-      <p>Theory and Practice of Deep Learning, Cape Town, South Africa.</p>
-    </div>
-  </div>
+I developed AI-powered automation systems and AI digital agents- Digital Health Advisors (DHAs) to enhance healthcare and wellness services. My work focused on creating intelligent systems for lead management, patient engagement, and business analytics, driving operational efficiency and improving patient outcomes.  
 
-</div>
+Key Responsibilities
+
+Lead the technical oversight and core functionality of VirtuClinic’s Digital Health Advisors (DHAs).; Enhance and refine AI capabilities to deliver seamless clinical and mental-health experiences for users and clients.; Design, evaluate, and integrate post-experience user surveys.; Maintain data security, safeguard DHA trade secrets, and manage system integrity.; Build and manage sub-user groups for client-specific deployments.; Improve geo-location services for both users and VirtuClinic customers.; Ensure full compliance with HIA, PIPEDA, POPA, FOIP, and all legislation governing the protection of Personal Health Information (PHI), ensuring that no PHI is stored, used, or transmitted.; Collaborate, design, implement, and monitor agentic AI applications across VirtuClinic.; Develop and deploy open-source AI agents for business operations, customer discovery, web scraping, customer service, workflow automation, lead scoring, and identification of key decision-makers and business owners.; Provide expert leadership in Artificial Intelligence, Natural Language Processing, and Machine Learning to support organizational learning, innovation, and technical development. 
+</td> 
+</tr>
+
+<table style="width:100%">
+<col width="17%">
+<col width="20">
+<col >
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+<!-- ![lenovologo](images/main/L3S.jpg) -->
+<img src="images/main/scalelogo.jpeg" width="400" height="200" />
+</td>
+<td></td>
+<td markdown="1">
+[**Scale AI Lab, Center for AI Safety, Outlier**](https://scale.com/blog/new-era-outlier) and [**PortexAI**](https://datalab.portexai.com/)
+  
+Prompt Engineer - AI Quality Control:
+
+In collaboration with the Center for AI Safety, Outlier, PortexAI and Scale AI Lab, I focused on enhancing LLM capabilities in reasoning, summarization, and general knowledge. One of my key achievements was co-developing Humanity's Last Exam (HLE) benchmark, designed to evaluate LLM performance on complex academic questions.
+</td> 
+</tr>
+
+
+<table style="width:100%">
+<col width="17%">
+<col width="20">
+<col >
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+<img src="images/main/NMA-logo.jpeg" width="500" height="100" />
+</td>
+<td></td>
+<td markdown="1">
+[**Neuromatch Academy (NMA)**](https://academy.neuromatch.io/), 2022 - Now 
+  
+Production Team Member & Teaching Assistant in Deep Learning - Neuroscience
+  
+Neuromatch Academy is a massive, interactive, online summer school experience spanning from hands-on modeling experience to meta-science interpretation skills across just about everything that could be reasonably included in the labels "computational neuroscience" and “deep learning”.
+Having substantial expertise in Python and experience with some aspects of neural data analysis and deep learning, I was working closely with a given pod for three weeks to help students solve problems and guide group projects.  
+</td> 
+</tr>
+
+<table style="width:100%">
+<col width="17%">
+<col width="20">
+<col >
+
+<table style="width:100%">
+<col width="17%">
+<col width="20">
+<col >
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+<img src="images/main/manobi-logo.png" width="200" height="50" />
+</td>
+<td></td>
+<td markdown="1">
+[**ICRISAT/MANOBI AFRICA**](http://www.manobi.com/), 2021 - 2022 
+  
+Data Scientist 
+</td> 
+</tr>
+
+<tr height="10"/>
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+<!-- ![cadcg](images/main/ikamva.png) -->
+<img src="images/main/UDS-logo.png" width="200" height="200" />
+</td>
+<td></td>
+<td markdown="1">
+[University of Dschang, Cameroon](https://www.univ-dschang.org/), 2016 - 2018 
+  
+Teaching Assistant in Mathematics
+</td> 
+</tr>
+</table>
+
+
+<table style="width:100%">
+<col width="17%">
+<col width="20">
+<col >
+
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+<img src="images/conference/CIMPA-logo.jpg" width="400" height="100" />
+</td>
+<td></td>
+<td markdown="1">
+[CIMPA](https://www.cimpa.info/), Centre International des Mathématiques Pures et Appliquées at Ecole Nationale Supérieure Polytechnique de Yaoundé, Cameroon (2018)
+  
+Title: Application of ALgebraic Toplogy in Robotics
+  
+The Centre International de Mathématiques Pures et Appliquées (CIMPA), founded in France in 1978, is a nonprofit organisation that promotes research in Mathematics in developing countries. Located in Nice, it is a UNESCO Category 2 centre and  is part of the Laboratoire d'Excellence CARMIN (Centres d'Accueil et de Rencontres Mathématiques Internationales). It benefits from the financial support of Germany, France, Norway, Spain and Switzerland.
+</td> 
+</tr>
+  
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+<img src="images/conference/hlf.svg" width="200" height="200" />
+</td>
+<td></td>
+<td markdown="1">
+[Heidelberg Laureate Forum (HLF)](https://www.heidelberg-laureate-forum.org/), 7th Heidelberg Laureate Forum, Germany (2019)
+
+The HLF is a networking conference where 200 carefully selected young researchers in mathematics and computer science spend a week interacting with the laureates of the disciplines: recipients of the Abel Prize, ACM A.M. Turing Award, ACM Prize in Computing, Fields Medal and Nevanlinna Prize. Established in 2013, the HLF is annually organized by the Heidelberg Laureate Forum Foundation (HLFF)
+</td> 
+</tr>
+
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+<img src="images/conference/AIMSrw-logo.png" width="400" height="100" />
+</td>
+<td></td>
+<td markdown="1">
+[Future of science](https://fosc.nexteinstein.org/participants/), conference Kigali, Rwanda (2019) 
+
+</td> 
+</tr>
+  
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+<img src="images/conference/siam-logo.jpg" width="600" height="50" />
+</td>
+<td></td>
+<td markdown="1">
+[11th Gene Golub SIAM Summer School](https://sites.google.com/aims.ac.za/g2s3-aims-2021/people?authuser=0), on “Theory and Practice of Deep Learning”, Cape Twon, South Africa 
+
+</td> 
+</tr>  
+
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+<img src="images/conference/hlf.svg" width="400" height="400" />
+</td>
+<td></td>
+<td markdown="1">
+[Heidelberg Laureate Forum (HLF)](https://www.heidelberg-laureate-forum.org/), 8th Heidelberg Laureate Forum, Germany (2021)
+
+The HLF is a networking conference where 200 carefully selected young researchers in mathematics and computer science spend a week interacting with the laureates of the disciplines: recipients of the Abel Prize, ACM A.M. Turing Award, ACM Prize in Computing, Fields Medal and Nevanlinna Prize. Established in 2013, the HLF is annually organized by the Heidelberg Laureate Forum Foundation (HLFF)
+</td> 
+</tr>
+</table>
+
+
 <style type="text/css">
-
-/* Overall CV page spacing */
-.cv-intro {
-  margin: 1.2rem 0 2rem 0;
-  font-size: 1.02rem;
-  line-height: 1.65;
-  color: #333;
+td {
+    border: 0.5px;
+    vertical-align: top;
+    text-align: left;
 }
 
-/* PDF button */
-.cv-button {
-  display: inline-block;
-  padding: 0.65rem 1rem;
-  border-radius: 8px;
-  background: #1f4e79;
-  color: #ffffff !important;
-  text-decoration: none;
-  font-weight: 600;
-  margin-top: 0.4rem;
+.container {
+  width: 100%;
+  height: 100%;
 }
 
-.cv-button:hover {
-  background: #163b5c;
-  text-decoration: none;
+.leftpane1 {
+    width: 24%;
+    height: 100%;
+    float: left;
+    border-collapse: collapse;
 }
 
-/* Section container */
-.cv-section {
-  display: flex;
-  flex-direction: column;
-  gap: 1.15rem;
-  margin-top: 1.2rem;
-  margin-bottom: 2.2rem;
+.leftpane2 {
+    width: 8%;
+    height: 100%;
+    margin: 8px;
+  	float: left;
+    border-collapse: collapse;
 }
 
-/* Main card layout */
-.cv-card {
-  display: grid;
-  grid-template-columns: 96px 1fr;
-  gap: 1.2rem;
-  padding: 1.1rem 1.2rem;
-  border: 1px solid #e5e8ec;
-  border-radius: 12px;
-  background: #ffffff;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.035);
+.leftpane3 {
+    width: 86%;
+    height: 100%;
+  	float: left;
+    border-collapse: collapse;
 }
 
-/* Slightly smaller cards for activities */
-.cv-card.compact {
-  padding: 0.95rem 1.1rem;
+.leftpane4 {
+    width: 15%;
+    height: 100%;
+    margin: 8px;
+  	float: left;
+    border-collapse: collapse;
 }
 
-/* Logo block */
-.cv-logo {
-  display: flex;
-  align-items: flex-start;
-  justify-content: center;
+.leftpane5 {
+    width: 80%;
+    height: 100%;
+  	float: left;
+    border-collapse: collapse;
 }
 
-.cv-logo img {
-  max-width: 82px;
-  max-height: 82px;
-  object-fit: contain;
-  border-radius: 6px;
+.rightpane {
+  width: 33%;
+  height: 100%;
+  float: right;
+  background-color: yellow;
+  border-collapse: collapse;
 }
-
-/* Text content */
-.cv-content {
-  line-height: 1.55;
-}
-
-.cv-content p {
-  margin: 0.25rem 0;
-}
-
-.cv-content ul {
-  margin-top: 0.45rem;
-  margin-bottom: 0;
-  padding-left: 1.2rem;
-}
-
-.cv-content li {
-  margin-bottom: 0.25rem;
-}
-
-/* Institution / date line */
-.cv-header {
-  display: flex;
-  justify-content: space-between;
-  gap: 1rem;
-  align-items: baseline;
-  margin-bottom: 0.3rem;
-}
-
-.cv-header h3 {
-  margin: 0;
-  font-size: 1.05rem;
-  line-height: 1.35;
-}
-
-.cv-header span {
-  white-space: nowrap;
-  color: #6b7280;
-  font-size: 0.92rem;
-}
-
-/* Scholarship / note text */
-.cv-note {
-  color: #555;
-  font-style: italic;
-}
-
-/* Skills section */
-.skills-grid {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 0.9rem;
-  margin: 1.2rem 0 2.2rem 0;
-}
-
-.skill-card {
-  padding: 1rem;
-  border: 1px solid #e5e8ec;
-  border-radius: 12px;
-  background: #fafafa;
-  box-shadow: 0 2px 7px rgba(0,0,0,0.025);
-}
-
-.skill-card h4 {
-  margin-top: 0;
-  margin-bottom: 0.45rem;
-  color: #1f4e79;
-  font-size: 1rem;
-}
-
-.skill-card p {
-  margin: 0;
-  line-height: 1.5;
-}
-
-/* Cleaner headings */
-h1 {
-  margin-top: 2.2rem;
-  margin-bottom: 1rem;
-  border-bottom: 2px solid #e5e8ec;
-  padding-bottom: 0.35rem;
-}
-
-/* Mobile responsiveness */
-@media screen and (max-width: 760px) {
-  .cv-card {
-    grid-template-columns: 1fr;
-  }
-
-  .cv-logo {
-    justify-content: flex-start;
-  }
-
-  .cv-header {
-    flex-direction: column;
-    gap: 0.15rem;
-  }
-
-  .cv-header span {
-    white-space: normal;
-  }
-
-  .skills-grid {
-    grid-template-columns: 1fr;
-  }
-}
-
-@media screen and (min-width: 761px) and (max-width: 1050px) {
-  .skills-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
 </style>
