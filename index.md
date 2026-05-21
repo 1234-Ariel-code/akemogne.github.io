@@ -37,15 +37,15 @@ comments: true
     </p>
 
     <div class="hero-buttons">
-      <a href="{{ site.baseurl }}/cv/" class="primary-button">View CV</a>
-      <a href="{{ site.baseurl }}/publications/" class="secondary-button">Publications</a>
-      <a href="{{ site.baseurl }}/projects/" class="secondary-button">Selected Projects</a>
-      <a href="https://scholar.google.com/citations?user=q7dQio4AAAAJ" target="_blank" class="secondary-button">Google Scholar</a>
-    </div>
+    <a href="cv.html" class="primary-button">View CV</a>
+    <a href="publications.html" class="secondary-button">Publications</a>
+    <a href="projects.html" class="secondary-button">Selected Projects</a>
+    <a href="https://scholar.google.com/citations?user=q7dQio4AAAAJ" target="_blank" class="secondary-button">Google Scholar</a>
+     </div>
   </div>
 
   <div class="hero-photo-wrap">
-    <img src="{{ site.baseurl }}/images/main/AI_117.png" alt="Ariel Ghislain Kemogne Kamdoum" class="hero-photo">
+    <img src="images/main/AI_117.png" alt="Ariel Ghislain Kemogne Kamdoum" class="hero-photo">
   </div>
 
 </section>
