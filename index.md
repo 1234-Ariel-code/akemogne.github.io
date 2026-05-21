@@ -101,13 +101,21 @@ Graduate Teaching Assistant at University of Calgary, Alberta, Canada:
 
 ### Talks and Presentations
 1- BIRS Workshop, "Novel Statistical Approaches for Studying Multi-omics Data", "Quantile-Gated Variational Autoencoder: Application to High Dimentional Data with Small Sample Size"; July 13 - 18, 2025, Banff International Research Station, Banff, AB, Canada
+
 2- Speaker at the Deep learning reading club, University of Calgary, Canada, 2023-2024
+
 3- Gene Golub SIAM Summer School, Cape Town, South Africa, [Accelerating Stochastic Gradient Descent using Predictive Variance Reduction](https://proceedings.neurips.cc/paper/2013/file/ac1dd209cbcc5e5d1c6e28598e8cbbe8-Paper.pdf), 2021;[Reference](https://sites.google.com/aims.ac.za/g2s3-aims-2021/groups?authuser=0).
+
 4- African Institute for Mathematical Sciences(AIMS), [Abelian extension and crossed module for Lie algebras](https://arxiv.org/abs/1802.04061), Dakar, Senegal, 2019 
+
 5- (Co)homologie des espaces de configuration, [University of Dschang, Cameroon](https://www.univ-dschang.org/), 2018
+
 6- Introduction to Hidden Markov Chain Models, [University of Calgary](https://www.ucalgary.ca/), Canada, 2023 
+
 7- Support Vector Machines and Kernels for Computational Biology, [University of Calgary](https://www.ucalgary.ca/), Canada, 2023 
+
 8- Deep learning of genomic variation and regulatory network data, [University of Calgary](https://www.ucalgary.ca/), Canada, 2023 
+
 9- Understanding of representation learning in machine learning,[University of Calgary](https://www.ucalgary.ca/), Canada, 2023
 
 ---
