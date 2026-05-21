@@ -3,191 +3,351 @@ layout: page
 title: "Publications"
 tagline : ""
 use_math: true
-lang: zh
+lang: en
 ---
-
 
 {% include JB/setup %}
 
 {% assign posts_collate = site.categories.projects %}
 {% include JB/posts_collate %}
 
-- Center for AI Safety., Scale AI. & HLE Contributors Consortium (**Ariel Ghislain Kemogne Kamdoum**). A benchmark of expert-level academic questions to assess AI capabilities. **Nature** 649, 1139–1146 (2026). https://doi.org/10.1038/s41586-025-09962-4
-  
-- Phan, L., Gatti, A., Han, Z., Li, N., Hu, J., Zhang, H., ... **Ariel Ghislain Kemogne Kamdoum** ...  & Wykowski, J. (2025). Humanity's last exam. arXiv preprint arXiv:2501.14249.
-
-- Waters, K., Nuzzi, L., Looram, T., Tomasiello, A., **Kemogne Kamdoum, A. G.**, Li, B., Sileo, D., Kretov, E., Fournier-Facio, F., Soloupis, G., Kassahun, H., Wolff, H., Cai, J., Li, L., Roth, M., Naiya, M., Guo, N., Tang, Q., Wheeler, R., Sala, S., Popov, S., Dillman, S., & Li, Y. (2026). *COMPOSITE-Stem*. arXiv preprint arXiv:2604.09836. https://doi.org/10.48550/arXiv.2604.09836
-
-- **Kemogne A**, Weeraman J, Wang D, Enoma D, Li C, Ganeshiny S, Chernenkoff S, Chekouo T, Zhang Q, Long Q# (2026+) “gVAE: Stable and interpretable representation learning for high-dimensional genomic cohorts with moderate sample sizes”. Under review. 
-
-- David Enoma, Dinghao Wang, **Ariel Ghislain Kemogne Kamdoum**, Rodrigo Ortega Polo, Quan Long, Jingni He, MOKA: a pipeline for multiomics bridged SNP-set kernel association test, G3 Genes-Genomes-Genetics, Volume 16, Issue 2, February 2026, jkaf296, https://doi.org/10.1093/g3journal/jkaf296
-
-- David O. Enoma, Hongjiang Chu, Dinghao Wang, Li Shu, **Ariel Ghislain Kemogne Kamdoum**, Janith Weeraman, Lang Wu, Paul M.K. Gordon, A.P. Jason de Koning, Paul D. Arnold, M. Ethan MacDonald, Weijia Cai, Linzhi Cai, Rodrigo Ortega Polo, Quan Long, Chen Cao. (2026+) “Representation learning-based genome-wide association mapping discovers genes underlying complex traits”. Under review.
- 
-More contributions at [Google Scholar](https://scholar.google.com/citations?user=q7dQio4AAAAJ).
-
-
-
-
-
-
-
-
-
-<!-- <link rel="stylesheet" href="/glyphicons/css/glyphicons.css">
-
-<table style="width:100%">
-<col width="20%">
-<col width="10">
-<col >
-
-<tr height="50">
-<td style="padding-left: 1px;
-    padding-bottom: 3px;
-    vertical-align: bottom;">
-    <strong style="font-size: 25px;">2017</strong></td>
-</tr> 
-    
-
-
-<tr style="border-bottom:1pt solid #eee" >
-<td markdown="1">
-![videovec](images/main/videovec.jpg){:class="img-shadow"}
-</td>
-<td></td>
-<td markdown="1">
-<div><a href="/archive/research/videovec/"><b>Video Vectorization via Tetrahedral Remeshing</b></a></div>
-<div><b>Chuan Wang</b>, Jie Zhu, Yanwen Guo, Wenping Wang</div>
-<div><i>IEEE Transactions on Image Processing, 2017</i></div>
-<div><i>"converting a raster video into its vectorized version, with perservation of the video features"</i></div>
-
-|| <em class="icon-home"></em> || [project page](/archive/research/videovec/) || <em class="icon-file"></em> || [paper](/archive/research/videovec/paper.pdf) || <em class="icon-film"></em> || [video demo](https://youtu.be/KmPdjB8f4ww) ||
-
-</td> 
-</tr> 
-
-<tr height="50">
-<td style="padding-left: 1px;
-    padding-bottom: 3px;
-    vertical-align: bottom;">
-    <strong style="font-size: 25px;">2021</strong></td>
-</tr> 
-
-<tr style="border-bottom:1pt solid #eee" >
-<td markdown="1">
-![spiden](images/papers/icadl2021.png =100x20){:class="img-shadow"} 
-<img src="images/papers/icadl2021.png" width="200" height="200" />
-</td>
-<td></td>
-<td markdown="1">
-<div><b>Automated Mining of Leaderboards for Empirical AI Research</b></div>
-<div>
-With the rapid growth of research publications, empowering scientists to keep oversight over the scientific progress is of paramount importance. In this regard, the Leaderboards facet of information organization provides an overview on the state-of-the-art by aggregating empirical results from various studies addressing the same research challenge. Crowdsourcing efforts like PapersWithCode among others are devoted to the construction of Leaderboards predominantly for various subdomains in Artificial Intelligence. Leaderboards provide machine-readable scholarly knowledge that has proven to be directly useful for scientists to keep track of research progress. The construction of Leaderboards could be greatly expedited with automated text mining.
-This study presents a comprehensive approach for generating Leaderboards for knowledge-graph-based scholarly information organization. Specifically, we investigate the problem of automated Leaderboard construction using state-of-the-art transformer models, viz. Bert, SciBert, and XLNet. Our analysis reveals an optimal approach that significantly outperforms existing baselines for the task with evaluation scores above 90% in F1. This, in turn, offers new state-of-the-art results for Leaderboard extraction. As a result, a vast share of empirical AI research can be organized in the next-generation digital libraries as knowledge graphs.
+<div class="pub-intro">
+  <p>
+    This page lists selected peer-reviewed publications, preprints, benchmark contributions,
+    and manuscripts under review. A more complete and regularly updated list is available on
+    <a href="https://scholar.google.com/citations?user=q7dQio4AAAAJ" target="_blank">Google Scholar</a>.
+  </p>
 </div>
-<div><i>Accepted as a full paper at ICADL 2021</i></div> 
 
-|| <em class="icon-home"/> || [paper](https://arxiv.org/pdf/2109.13089.pdf) || <em class="icon-github"/> || [source code](https://github.com/Kabongosalomon/task-dataset-metric-nli-extraction) ||
+---
 
-</td> 
-</tr> 
+# Peer-Reviewed Publications
 
-<tr style="border-bottom:1pt solid #eee" >
-<td markdown="1">
-<img src="images/papers/listra.png" width="200" height="200" />
-</td>
-<td></td>
-<td markdown="1">
-<div><b>LiSTra Automatic Speech Translation: English to Lingala case study</b></div>
-<div>
-In recent years there have been great interests in addressing the low resourcefulness of African languages and providing baseline models for different Natural Language Processing tasks. Several initiatives on the continent use the Bible as a data source to provide proof of concept for some NLP tasks. In this work, we present the Lingala Speech Translation (LiSTra) dataset, release a full pipeline for the construction of such dataset in other languages, and report baselines using both the traditional cascade approach (Automatic Speech Recognition -> Machine Translation) and a revolutionary transformer-based End-2-End architecture with customized interactive attention that allows information sharing between the recognition decoder and the translation decoder.
+<div class="pub-section">
+
+  <div class="pub-card featured">
+    <div class="pub-year">2026</div>
+    <div class="pub-content">
+      <div class="pub-badge nature">Nature</div>
+
+      <h3>
+        A benchmark of expert-level academic questions to assess AI capabilities
+      </h3>
+
+      <p class="pub-authors">
+        Center for AI Safety, Scale AI, and HLE Contributors Consortium
+        (<strong>Ariel Ghislain Kemogne Kamdoum</strong>).
+      </p>
+
+      <p class="pub-venue">
+        <strong>Nature</strong> 649, 1139–1146 (2026).
+      </p>
+
+      <p class="pub-links">
+        <a href="https://doi.org/10.1038/s41586-025-09962-4" target="_blank">DOI</a>
+      </p>
+    </div>
+  </div>
+
+  <div class="pub-card">
+    <div class="pub-year">2026</div>
+    <div class="pub-content">
+      <div class="pub-badge journal">Journal Article</div>
+
+      <h3>
+        MOKA: a pipeline for multiomics bridged SNP-set kernel association test
+      </h3>
+
+      <p class="pub-authors">
+        David Enoma, Dinghao Wang, <strong>Ariel Ghislain Kemogne Kamdoum</strong>,
+        Rodrigo Ortega Polo, Quan Long, Jingni He.
+      </p>
+
+      <p class="pub-venue">
+        <strong>G3: Genes | Genomes | Genetics</strong>, Volume 16, Issue 2,
+        February 2026, jkaf296.
+      </p>
+
+      <p class="pub-links">
+        <a href="https://doi.org/10.1093/g3journal/jkaf296" target="_blank">DOI</a>
+      </p>
+    </div>
+  </div>
+
 </div>
-<div><i>Accepted as a Poster and selected for spotlight talk at The 5th Black in AI Workshop (co-located with NeurIPS 2021)</i></div>
 
-|| <em class="icon-home"/> || [paper](/archive/posterBiai2021.pdf) || <em class="icon-github"/> || [source code](https://github.com/dsfsi/2020-AMMI-salomon) ||
+---
 
-</td> 
-</tr>
+# Preprints and Benchmark Contributions
 
-<tr height="50">
-<td style="padding-left: 1px;
-    padding-bottom: 3px;
-    vertical-align: bottom;">
-    <strong style="font-size: 25px;">2020</strong></td>
-</tr> 
+<div class="pub-section">
 
-<tr style="border-bottom:1pt solid #eee" >
-<td markdown="1">
-<img src="images/papers/masakhane_paper_1.png" width="200" height="200" />
+  <div class="pub-card">
+    <div class="pub-year">2026</div>
+    <div class="pub-content">
+      <div class="pub-badge preprint">Preprint</div>
 
-</td>
-<td></td>
-<td markdown="1">
-<div><b>MASAKHANE - MACHINE TRANSLATION FOR AFRICA</b></div>
-<div>
-Africa has over 2000 languages. Despite this, African languages account for a small portion of available resources and publications in Natural Language Processing (NLP). This is due to multiple factors, including: a lack of focus from government and funding, discoverability, a lack of community, sheer language complexity, difficulty in reproducing papers and no benchmarks to compare techniques. In this paper, we discuss our methodology for building the community and spurring research from the African continent, as well as outline the success of the community in terms of addressing the identified problems affecting African NLP.</div>
-<div><i>Accepted for the AfricaNLP Workshop, ICLR 2020</i></div>
+      <h3>
+        COMPOSITE-Stem
+      </h3>
 
-|| <em class="icon-home"/> || [paper](https://arxiv.org/pdf/2003.11529.pdf) || <em class="icon-github"/> || [source code](https://github.com/masakhane-io/masakhane.git) ||
+      <p class="pub-authors">
+        Waters, K., Nuzzi, L., Looram, T., Tomasiello, A.,
+        <strong>Kemogne Kamdoum, A. G.</strong>, Li, B., Sileo, D.,
+        Kretov, E., Fournier-Facio, F., Soloupis, G., Kassahun, H.,
+        Wolff, H., Cai, J., Li, L., Roth, M., Naiya, M., Guo, N.,
+        Tang, Q., Wheeler, R., Sala, S., Popov, S., Dillman, S., and Li, Y.
+      </p>
 
-</td> 
-</tr> 
+      <p class="pub-venue">
+        arXiv preprint arXiv:2604.09836.
+      </p>
 
-<tr height="50">
-<td style="padding-left: 1px;
-    padding-bottom: 3px;
-    vertical-align: bottom;">
-    <strong style="font-size: 25px;">2015</strong></td>
-</tr>
+      <p class="pub-links">
+        <a href="https://doi.org/10.48550/arXiv.2604.09836" target="_blank">arXiv DOI</a>
+      </p>
+    </div>
+  </div>
 
-<tr style="border-bottom:1pt solid #eee" >
-<td markdown="1">
-![thesis](images/main/hkulogo2.jpg){:class="img-shadow"}
-</td>
-<td></td>
-<td markdown="1">
-<div><b>Ph.D Thesis: Video Object Co-Segmentation and Video Vectorization</b></div>
-<div><b>Chuan Wang</b></div>
-<div><i>The University of Hong Kong, January 2015.</i></div>
-<div><i>"a detailed version of the works in video object co-segmentation and video vectorization"</i></div>
+  <div class="pub-card">
+    <div class="pub-year">2025</div>
+    <div class="pub-content">
+      <div class="pub-badge preprint">Preprint</div>
 
-|| <em class="icon-file"></em> || thesis || <!--[thesis](/archive/research/thesis.pdf)-->
+      <h3>
+        Humanity's Last Exam
+      </h3>
 
-<!-- </td> 
-</tr>
+      <p class="pub-authors">
+        Phan, L., Gatti, A., Han, Z., Li, N., Hu, J., Zhang, H.,
+        ... <strong>Ariel Ghislain Kemogne Kamdoum</strong> ... and Wykowski, J.
+      </p>
 
-<tr height="50">
-<td style="padding-left: 1px;
-    padding-bottom: 3px;
-    vertical-align: bottom;">
-    <strong style="font-size: 25px;">2014</strong></td>
-</tr> 
+      <p class="pub-venue">
+        arXiv preprint arXiv:2501.14249.
+      </p>
+    </div>
+  </div>
 
-<tr style="border-bottom:1pt solid #eee" >
-<td markdown="1">
-![videocoseg](images/main/videocoseg.jpg){:class="img-shadow"}
-</td>
-<td></td>
-<td markdown="1">
-<div><a href="/archive/research/videocoseg/"><b>Video Object Co-segmentation via Subspace Clustering and Quadratic Pseudo-Boolean Optimization in an MRF Framework</b></a></div>
-<div><b>Chuan Wang</b>, Yanwen Guo, Jie Zhu, Linbo Wang, Wenping Wang</div>
-<div><i>IEEE Transactions on Multimedia, 2014.</i></div>
-<div><i>"common-foreground co-segmentation system for a group of videos"</i></div>
+</div>
 
-|| <em class="icon-home"/> || [project page](/archive/research/videocoseg/) || <em class="icon-file"/> || [paper](/archive/research/videocoseg/paper.pdf) || <em class="icon-film"/> || [video demo](https://youtu.be/vbeN6JMkuGk) ||
+---
 
-</td> 
-</tr> 
+# Manuscripts Under Review
 
-</table>
+<div class="pub-section">
 
+  <div class="pub-card under-review">
+    <div class="pub-year">2026+</div>
+    <div class="pub-content">
+      <div class="pub-badge review">Under Review</div>
+
+      <h3>
+        gVAE: Stable and interpretable representation learning for high-dimensional genomic cohorts with moderate sample sizes
+      </h3>
+
+      <p class="pub-authors">
+        <strong>Kemogne A.</strong>, Weeraman J., Wang D., Enoma D., Li C.,
+        Ganeshiny S., Chernenkoff S., Chekouo T., Zhang Q., and Long Q.
+      </p>
+
+      <p class="pub-venue">
+        Manuscript under review.
+      </p>
+    </div>
+  </div>
+
+  <div class="pub-card under-review">
+    <div class="pub-year">2026+</div>
+    <div class="pub-content">
+      <div class="pub-badge review">Under Review</div>
+
+      <h3>
+        Representation learning-based genome-wide association mapping discovers genes underlying complex traits
+      </h3>
+
+      <p class="pub-authors">
+        David O. Enoma, Hongjiang Chu, Dinghao Wang, Li Shu,
+        <strong>Ariel Ghislain Kemogne Kamdoum</strong>, Janith Weeraman,
+        Lang Wu, Paul M. K. Gordon, A. P. Jason de Koning, Paul D. Arnold,
+        M. Ethan MacDonald, Weijia Cai, Linzhi Cai, Rodrigo Ortega Polo,
+        Quan Long, and Chen Cao.
+      </p>
+
+      <p class="pub-venue">
+        Manuscript under review.
+      </p>
+    </div>
+  </div>
+
+</div>
+
+---
+
+<div class="scholar-box">
+  <p>
+    More publications and citation updates are available on
+    <a href="https://scholar.google.com/citations?user=q7dQio4AAAAJ" target="_blank">
+      Google Scholar
+    </a>.
+  </p>
+</div>
 <style type="text/css">
-td {
-    border: 0.5px;
-    vertical-align: center;
-    text-align: left;
+
+/* Intro text */
+.pub-intro {
+  margin: 1.2rem 0 2rem 0;
+  font-size: 1.03rem;
+  line-height: 1.65;
+  color: #333;
 }
-    
-   
-    
-</style> -->
+
+/* Publication section */
+.pub-section {
+  display: flex;
+  flex-direction: column;
+  gap: 1.15rem;
+  margin-top: 1.2rem;
+  margin-bottom: 2.4rem;
+}
+
+/* Publication card */
+.pub-card {
+  display: grid;
+  grid-template-columns: 82px 1fr;
+  gap: 1.15rem;
+  padding: 1.15rem 1.25rem;
+  border: 1px solid #e5e8ec;
+  border-radius: 14px;
+  background: #ffffff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.035);
+}
+
+/* Featured publication */
+.pub-card.featured {
+  border-left: 5px solid #1f4e79;
+  background: #fbfdff;
+}
+
+/* Under-review manuscripts */
+.pub-card.under-review {
+  background: #fffdf8;
+}
+
+/* Year column */
+.pub-year {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #1f4e79;
+  padding-top: 0.15rem;
+}
+
+/* Publication content */
+.pub-content {
+  line-height: 1.58;
+}
+
+.pub-content h3 {
+  margin: 0.3rem 0 0.45rem 0;
+  font-size: 1.08rem;
+  line-height: 1.38;
+  color: #1f2933;
+}
+
+.pub-content p {
+  margin: 0.35rem 0;
+}
+
+/* Authors */
+.pub-authors {
+  color: #333;
+}
+
+/* Venue */
+.pub-venue {
+  color: #4b5563;
+}
+
+/* Links */
+.pub-links {
+  margin-top: 0.55rem;
+}
+
+.pub-links a {
+  display: inline-block;
+  padding: 0.22rem 0.55rem;
+  border-radius: 6px;
+  border: 1px solid #d7e2ec;
+  background: #f5f9fc;
+  color: #1f4e79;
+  font-weight: 600;
+  text-decoration: none;
+  font-size: 0.88rem;
+}
+
+.pub-links a:hover {
+  background: #eaf2f8;
+  text-decoration: none;
+}
+
+/* Badges */
+.pub-badge {
+  display: inline-block;
+  padding: 0.22rem 0.55rem;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+  letter-spacing: 0.01em;
+}
+
+.pub-badge.nature {
+  background: #f2e8e8;
+  color: #8b1e1e;
+}
+
+.pub-badge.journal {
+  background: #eef4fa;
+  color: #1f4e79;
+}
+
+.pub-badge.preprint {
+  background: #f0f4f8;
+  color: #455a64;
+}
+
+.pub-badge.review {
+  background: #fff3cd;
+  color: #8a5a00;
+}
+
+/* Scholar box */
+.scholar-box {
+  margin: 2.5rem 0 1rem 0;
+  padding: 1rem 1.2rem;
+  border-radius: 12px;
+  background: #f8fafc;
+  border: 1px solid #e5e8ec;
+  line-height: 1.6;
+}
+
+/* Cleaner headings */
+h1 {
+  margin-top: 2.2rem;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid #e5e8ec;
+  padding-bottom: 0.35rem;
+}
+
+/* Mobile layout */
+@media screen and (max-width: 760px) {
+  .pub-card {
+    grid-template-columns: 1fr;
+  }
+
+  .pub-year {
+    padding-top: 0;
+  }
+}
+
+</style>
