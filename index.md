@@ -37,15 +37,15 @@ comments: true
     </p>
 
     <div class="hero-buttons">
-      <a href="/cv/" class="primary-button">View CV</a>
-      <a href="/publications/" class="secondary-button">Publications</a>
-      <a href="/projects/" class="secondary-button">Selected Projects</a>
+      <a href="{{ site.baseurl }}/cv/" class="primary-button">View CV</a>
+      <a href="{{ site.baseurl }}/publications/" class="secondary-button">Publications</a>
+      <a href="{{ site.baseurl }}/projects/" class="secondary-button">Selected Projects</a>
       <a href="https://scholar.google.com/citations?user=q7dQio4AAAAJ" target="_blank" class="secondary-button">Google Scholar</a>
     </div>
   </div>
 
   <div class="hero-photo-wrap">
-    <img src="images/main/AI_117.png" alt="Ariel Ghislain Kemogne Kamdoum" class="hero-photo">
+    <img src="{{ site.baseurl }}/images/main/AI_117.png" alt="Ariel Ghislain Kemogne Kamdoum" class="hero-photo">
   </div>
 
 </section>
@@ -58,7 +58,10 @@ comments: true
     <h3>Current Position</h3>
     <p>
       PhD Researcher in Biostatistics at the University of Calgary,
-      affiliated with Quan Long’s Lab.
+      affiliated with
+      <a href="https://sites.google.com/site/quanlongresearch/group-members?authuser=0" target="_blank">
+        Quan Long’s Lab
+      </a>.
     </p>
   </div>
 
@@ -424,8 +427,6 @@ comments: true
 
 <style type="text/css">
 
-/* ===================== GLOBAL HOMEPAGE STYLE ===================== */
-
 body {
   color: #1f2933;
 }
@@ -615,6 +616,15 @@ a {
   margin: 0;
   line-height: 1.55;
   color: #374151;
+}
+
+.info-card a {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.info-card a:hover {
+  text-decoration: underline;
 }
 
 /* ===================== ABOUT ===================== */
