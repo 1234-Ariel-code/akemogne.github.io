@@ -17,10 +17,6 @@ lang: en
   <a class="cv-button" href="cv-full.html">
     View full static CV
   </a>
-
-  <a class="cv-button secondary" href="archive/CV_Ariel-Ghislain-Kemogne-Kamdoum.pdf" target="_blank">
-    Download PDF version
-  </a>
 </p>
 </div>
 
