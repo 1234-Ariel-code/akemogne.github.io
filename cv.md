@@ -35,8 +35,8 @@ CV in [PDF](https://1234-ariel-code.github.io/akemogne.github.io/archive/CV_Arie
 <td></td>
 <td markdown="1">
 [**University of Calgary, Canada**](https://www.ucalgary.ca/), 01/2022 - 01/2026 
-- **Ph.D in Biostatistics**
-- Supervisor: [Dr. Quan Long](https://cumming.ucalgary.ca/departments/bmb/profiles/dr-quan-long)
+**Ph.D in Biostatistics**
+Supervisor: [Dr. Quan Long](https://cumming.ucalgary.ca/departments/bmb/profiles/dr-quan-long)
 </td> 
 </tr>
 
@@ -180,7 +180,7 @@ CV in [PDF](https://1234-ariel-code.github.io/akemogne.github.io/archive/CV_Arie
 <td markdown="1">
 [**University of Calgary**](https://www.ucalgary.ca/), 2022 - Now 
   
-- Graduate Teaching Assistant, Faculty of Medicine and Dept of Mathematics and Statistics:
+Graduate Teaching Assistant, Faculty of Medicine and Dept of Mathematics and Statistics:
   
 GA(T)s are appointed to provide teaching or instructional service, which might encompass lecturing assistance, laboratory supervision, office hours, grading assignments, tutorial direction, assistance in preparation of demonstration and instructional aids, and other related academic duties. 
 </td> 
@@ -200,13 +200,13 @@ GA(T)s are appointed to provide teaching or instructional service, which might e
 <td markdown="1">
 [**VirtuClinic Inc.**](https://www.virtuclinic.ca/), Alberta-Canada 
   
-- Artificial Intelligence (AI) Technical Lead/CTO:
+Artificial Intelligence (AI) Technical Lead/CTO:
 
 I developed AI-powered automation systems and AI digital agents- Digital Health Advisors (DHAs) to enhance healthcare and wellness services. My work focused on creating intelligent systems for lead management, patient engagement, and business analytics, driving operational efficiency and improving patient outcomes.  
 
 Key Responsibilities
 
-• Lead the technical oversight and core functionality of VirtuClinic’s Digital Health Advisors (DHAs).
+- Lead the technical oversight and core functionality of VirtuClinic’s Digital Health Advisors (DHAs).
 – Enhance and refine AI capabilities to deliver seamless clinical and mental-health experiences for users and clients.
 – Design, evaluate, and integrate post-experience user surveys.
 – Maintain data security, safeguard DHA trade secrets, and manage system integrity.
@@ -214,10 +214,10 @@ Key Responsibilities
 – Improve geo-location services for both users and VirtuClinic customers.
 – Ensure full compliance with HIA, PIPEDA, POPA, FOIP, and all legislation governing the protection of Personal Health Information (PHI), ensuring that no PHI is stored, used, or transmitted.
 
-• Collaborate, design, implement, and monitor agentic AI applications across VirtuClinic.
+- Collaborate, design, implement, and monitor agentic AI applications across VirtuClinic.
 – Develop and deploy open-source AI agents for business operations, customer discovery, web scraping, customer service, workflow automation, lead scoring, and identification of key decision-makers and business owners.
 
-• Provide expert leadership in Artificial Intelligence, Natural Language Processing, and Machine Learning to support organizational learning, innovation, and technical development. 
+- Provide expert leadership in Artificial Intelligence, Natural Language Processing, and Machine Learning to support organizational learning, innovation, and technical development. 
 </td> 
 </tr>
 
@@ -234,7 +234,7 @@ Key Responsibilities
 <td markdown="1">
 [**Scale AI Lab, Center for AI Safety, Outlier**](https://scale.com/blog/new-era-outlier) and [**PortexAI**](https://datalab.portexai.com/)
   
-- Prompt Engineer - AI Quality Control:
+Prompt Engineer - AI Quality Control:
 
 In collaboration with the Center for AI Safety, Outlier, PortexAI and Scale AI Lab, I focused on enhancing LLM capabilities in reasoning, summarization, and general knowledge. One of my key achievements was co-developing Humanity's Last Exam (HLE) benchmark, designed to evaluate LLM performance on complex academic questions.
 </td> 
@@ -253,7 +253,7 @@ In collaboration with the Center for AI Safety, Outlier, PortexAI and Scale AI L
 <td markdown="1">
 [**Neuromatch Academy (NMA)**](https://academy.neuromatch.io/), 2022 - Now 
   
-- Production Team Member & Teaching Assistant in Deep Learning - Neuroscience
+Production Team Member & Teaching Assistant in Deep Learning - Neuroscience
   
 Neuromatch Academy is a massive, interactive, online summer school experience spanning from hands-on modeling experience to meta-science interpretation skills across just about everything that could be reasonably included in the labels "computational neuroscience" and “deep learning”.
 Having substantial expertise in Python and experience with some aspects of neural data analysis and deep learning, I was working closely with a given pod for three weeks to help students solve problems and guide group projects.  
@@ -277,7 +277,7 @@ Having substantial expertise in Python and experience with some aspects of neura
 <td markdown="1">
 [**ICRISAT/MANOBI AFRICA**](http://www.manobi.com/), 2021 - 2022 
   
-- Data Scientist 
+Data Scientist 
 </td> 
 </tr>
 
@@ -291,7 +291,7 @@ Having substantial expertise in Python and experience with some aspects of neura
 <td markdown="1">
 [University of Dschang, Cameroon](https://www.univ-dschang.org/), 2016 - 2018 
   
-- Teaching Assistant in Mathematics
+Teaching Assistant in Mathematics
 </td> 
 </tr>
 </table>
@@ -310,7 +310,7 @@ Having substantial expertise in Python and experience with some aspects of neura
 <td markdown="1">
 [CIMPA](https://www.cimpa.info/), Centre International des Mathématiques Pures et Appliquées at Ecole Nationale Supérieure Polytechnique de Yaoundé, Cameroon (2018)
   
--Title: Application of ALgebraic Toplogy in Robotics
+Title: Application of ALgebraic Toplogy in Robotics
   
 The Centre International de Mathématiques Pures et Appliquées (CIMPA), founded in France in 1978, is a nonprofit organisation that promotes research in Mathematics in developing countries. Located in Nice, it is a UNESCO Category 2 centre and  is part of the Laboratoire d'Excellence CARMIN (Centres d'Accueil et de Rencontres Mathématiques Internationales). It benefits from the financial support of Germany, France, Norway, Spain and Switzerland.
 </td> 
