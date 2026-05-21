@@ -13,11 +13,15 @@ lang: en
     professional experience, and selected scientific activities.
   </p>
 
-  <p>
-    <a class="cv-button" href="https://1234-ariel-code.github.io/akemogne.github.io/archive/CV_Ariel-Ghislain-Kemogne-Kamdoum.pdf" target="_blank">
-      Download full CV PDF
-    </a>
-  </p>
+  <p class="cv-button-row">
+  <a class="cv-button" href="cv-full.html">
+    View full static CV
+  </a>
+
+  <a class="cv-button secondary" href="archive/CV_Ariel-Ghislain-Kemogne-Kamdoum.pdf" target="_blank">
+    Download PDF version
+  </a>
+</p>
 </div>
 
 ---
@@ -321,6 +325,27 @@ lang: en
   line-height: 1.65;
   color: #333;
 }
+
+
+
+.cv-button-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  margin-top: 0.6rem;
+}
+
+.cv-button.secondary {
+  background: #f5f9fc;
+  color: #1f4e79 !important;
+  border: 1px solid #d7e2ec;
+}
+
+.cv-button.secondary:hover {
+  background: #eaf2f8;
+}
+
+
 
 /* PDF button */
 .cv-button {
