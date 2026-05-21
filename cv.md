@@ -206,18 +206,7 @@ I developed AI-powered automation systems and AI digital agents- Digital Health 
 
 Key Responsibilities
 
-- Lead the technical oversight and core functionality of VirtuClinic’s Digital Health Advisors (DHAs).
-– Enhance and refine AI capabilities to deliver seamless clinical and mental-health experiences for users and clients.
-– Design, evaluate, and integrate post-experience user surveys.
-– Maintain data security, safeguard DHA trade secrets, and manage system integrity.
-– Build and manage sub-user groups for client-specific deployments.
-– Improve geo-location services for both users and VirtuClinic customers.
-– Ensure full compliance with HIA, PIPEDA, POPA, FOIP, and all legislation governing the protection of Personal Health Information (PHI), ensuring that no PHI is stored, used, or transmitted.
-
-- Collaborate, design, implement, and monitor agentic AI applications across VirtuClinic.
-– Develop and deploy open-source AI agents for business operations, customer discovery, web scraping, customer service, workflow automation, lead scoring, and identification of key decision-makers and business owners.
-
-- Provide expert leadership in Artificial Intelligence, Natural Language Processing, and Machine Learning to support organizational learning, innovation, and technical development. 
+Lead the technical oversight and core functionality of VirtuClinic’s Digital Health Advisors (DHAs).; Enhance and refine AI capabilities to deliver seamless clinical and mental-health experiences for users and clients.; Design, evaluate, and integrate post-experience user surveys.; Maintain data security, safeguard DHA trade secrets, and manage system integrity.; Build and manage sub-user groups for client-specific deployments.; Improve geo-location services for both users and VirtuClinic customers.; Ensure full compliance with HIA, PIPEDA, POPA, FOIP, and all legislation governing the protection of Personal Health Information (PHI), ensuring that no PHI is stored, used, or transmitted.; Collaborate, design, implement, and monitor agentic AI applications across VirtuClinic.; Develop and deploy open-source AI agents for business operations, customer discovery, web scraping, customer service, workflow automation, lead scoring, and identification of key decision-makers and business owners.; Provide expert leadership in Artificial Intelligence, Natural Language Processing, and Machine Learning to support organizational learning, innovation, and technical development. 
 </td> 
 </tr>
 
