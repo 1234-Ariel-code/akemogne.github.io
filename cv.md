@@ -35,8 +35,8 @@ CV in [PDF](https://1234-ariel-code.github.io/akemogne.github.io/archive/CV_Arie
 <td></td>
 <td markdown="1">
 [**University of Calgary, Canada**](https://www.ucalgary.ca/), 01/2022 - 01/2026 
-**Ph.D in Biostatistics**
-Supervisor: [Dr. Quan Long](https://cumming.ucalgary.ca/departments/bmb/profiles/dr-quan-long)
+- **Ph.D in Biostatistics**
+- Supervisor: [Dr. Quan Long](https://cumming.ucalgary.ca/departments/bmb/profiles/dr-quan-long)
 </td> 
 </tr>
 
