@@ -46,20 +46,13 @@ Language: French (Native) & English (Fluent).
 ### Research Interests
 My research interests include but not limited to:
 
-- Artificial Intelligence (AI)
-
-- Machine learning/Deep Learning (Representation learning, Deep learning, Optimization)
-
-- Statistical genetics
-  
-- Biostatistics/Bioinformatics
+Artificial Intelligence (AI); Machine learning/Deep Learning (Representation learning, Deep learning, Optimization); Statistical genetics; Biostatistics/Bioinformatics
 
 ---
 
 ### Awards 
 
-1- Selected for the Student Research Presentation Awards, Statistical Society of Canada (SSC) Annual Meeting, 2026  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recognized for the presentation of my work on: *“gVAE: Stable and interpretable representation learning for high-dimensional genomic cohorts with moderate sample sizes”*.
+1- Nominated for the Student Research Presentation Awards, Statistical Society of Canada (SSC) Annual Meeting, 2026;Recognized for the presentation of my work on: *“gVAE: Stable and interpretable representation learning for high-dimensional genomic cohorts with moderate sample sizes”*.
 
 2- 2023 Alberta Innovates Graduates Scholarship, 2023-2026
 
@@ -100,13 +93,9 @@ Member of Alberta’s innovation ecosystem supporting technology commercializati
 
 Graduate Teaching Assistant at University of Calgary, Alberta, Canada:
 
-1- STAT 205: Introduction to Statistical Inquiry
+1- *STAT 205: Introduction to Statistical Inquiry*. An applied introduction to statistical thinking, focusing on data collection, exploratory data analysis, probability concepts, statistical inference, confidence intervals, hypothesis testing, and real-world data interpretation.
 
-An applied introduction to statistical thinking, focusing on data collection, exploratory data analysis, probability concepts, statistical inference, confidence intervals, hypothesis testing, and real-world data interpretation.
-
-2- STAT 323: Introduction to Theoretical Statistics
-
-A mathematically grounded course covering probability theory, random variables, common distributions, expectations, sampling distributions, and the theoretical foundations underlying statistical inference.
+2- *STAT 323: Introduction to Theoretical Statistics*. A mathematically grounded course covering probability theory, random variables, common distributions, expectations, sampling distributions, and the theoretical foundations underlying statistical inference.
 
 ---
 
