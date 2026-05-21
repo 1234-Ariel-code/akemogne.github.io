@@ -86,23 +86,31 @@ comments: true
 
 <div class="about-box">
 
-I am **Ariel Ghislain Kemogne Kamdoum**, a PhD researcher at the
-[University of Calgary, Canada](https://www.ucalgary.ca/), where I develop
-novel biostatistical and representation-learning methods to identify genetic
-factors underlying complex diseases, including cancer, cardiovascular disorders,
-and other complex traits.
+<p>
+  I am <strong>Ariel Ghislain Kemogne Kamdoum</strong>, a PhD researcher at the
+  <a href="https://www.ucalgary.ca/" target="_blank">University of Calgary, Canada</a>,
+  where I develop novel biostatistical and representation-learning methods to identify
+  genetic factors underlying complex diseases, including cancer, cardiovascular disorders,
+  and other complex traits.
+</p>
 
-My work bridges **statistical genetics**, **deep learning**, **explainable AI**,
-and **biostatistics**, with a strong emphasis on interpretability, biological
-mechanism, and clinically meaningful genomic discovery.
+<p>
+  My work bridges <strong>statistical genetics</strong>, <strong>deep learning</strong>,
+  <strong>explainable AI</strong>, and <strong>biostatistics</strong>, with a strong emphasis
+  on interpretability, biological mechanism, and clinically meaningful genomic discovery.
+</p>
 
-My academic foundation is in **Mathematics**, **Computer Science**, and
-**Machine Intelligence**. I completed graduate training at the University of
-Dschang, the African Institute for Mathematical Sciences in Senegal, and the
-African Master’s in Machine Intelligence program in Ghana.
+<p>
+  My academic foundation is in <strong>Mathematics</strong>, <strong>Computer Science</strong>,
+  and <strong>Machine Intelligence</strong>. I completed graduate training at the University
+  of Dschang, the African Institute for Mathematical Sciences in Senegal, and the African
+  Master’s in Machine Intelligence program in Ghana.
+</p>
 
-More information is available on my
-[ORCID profile](https://orcid.org/0009-0007-1926-7695).
+<p>
+  More information is available on my
+  <a href="https://orcid.org/0009-0007-1926-7695" target="_blank">ORCID profile</a>.
+</p>
 
 </div>
 
@@ -235,15 +243,19 @@ More information is available on my
 
 <div class="feature-box">
 
-As an Alberta Innovates Scholar, I contribute to Alberta’s digital health ecosystem
-through the design and development of AI-powered Digital Health Advisors at
-VirtuClinic Inc. My work focuses on translating artificial intelligence, machine
-learning, and natural language processing research into practical digital health
-systems that support virtual care, mental-health support, patient engagement,
-and healthcare operations.
+<p>
+  As an Alberta Innovates Scholar, I contribute to Alberta’s digital health ecosystem
+  through the design and development of AI-powered Digital Health Advisors at
+  VirtuClinic Inc. My work focuses on translating artificial intelligence, machine
+  learning, and natural language processing research into practical digital health
+  systems that support virtual care, mental-health support, patient engagement,
+  and healthcare operations.
+</p>
 
-The work emphasizes responsible AI, privacy-aware design, health-data governance,
-and compliance with Canadian health-information protection standards.
+<p>
+  The work emphasizes responsible AI, privacy-aware design, health-data governance,
+  and compliance with Canadian health-information protection standards.
+</p>
 
 <p>
   <a href="https://www.virtuadvisor.ca" target="_blank" class="primary-button">Try the Digital Health Advisors</a>
@@ -283,6 +295,11 @@ and compliance with Canadian health-information protection standards.
     <p>Innovation, technology commercialization, and industry collaboration.</p>
   </div>
 
+  <div class="membership-card">
+    <h3>Alberta Innovates</h3>
+    <p>Graduate scholar contributing to AI, digital health, and innovation in Alberta.</p>
+  </div>
+
 </div>
 
 ---
@@ -291,7 +308,9 @@ and compliance with Canadian health-information protection standards.
 
 <div class="teaching-box">
 
-<strong>Graduate Teaching Assistant, University of Calgary — Winter 2026</strong>
+<p>
+  <strong>Graduate Teaching Assistant, University of Calgary — Winter 2026</strong>
+</p>
 
 <ul>
   <li>
@@ -402,12 +421,50 @@ and compliance with Canadian health-information protection standards.
 </p>
 
 </div>
+
 <style type="text/css">
 
 /* ===================== GLOBAL HOMEPAGE STYLE ===================== */
 
 body {
   color: #1f2933;
+}
+
+/* ===================== TOP CONTACT ICONS ===================== */
+
+.page-header {
+  position: relative;
+  min-height: 42px;
+  margin-bottom: 1.4rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #e5e8ec;
+}
+
+.page-header .pull-right {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  float: none !important;
+  justify-content: flex-end;
+}
+
+.page-header .pull-right img,
+.page-header .pull-right svg,
+.page-header .pull-right i {
+  width: 24px !important;
+  height: 24px !important;
+  max-width: 24px !important;
+  max-height: 24px !important;
+  object-fit: contain;
+  opacity: 0.78;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.page-header .pull-right img:hover,
+.page-header .pull-right svg:hover,
+.page-header .pull-right i:hover {
+  opacity: 1;
+  transform: translateY(-1px);
 }
 
 .page-header h1 {
@@ -576,6 +633,17 @@ a {
   margin-bottom: 2rem;
 }
 
+.about-box p,
+.feature-box p {
+  margin-top: 0;
+  margin-bottom: 0.85rem;
+}
+
+.about-box p:last-child,
+.feature-box p:last-child {
+  margin-bottom: 0;
+}
+
 /* ===================== TAGS ===================== */
 
 .tag-cloud {
@@ -673,6 +741,10 @@ a {
   grid-template-columns: repeat(2, 1fr);
   gap: 0.95rem;
   margin: 1.2rem 0 2.2rem 0;
+}
+
+.membership-card {
+  min-height: 105px;
 }
 
 /* ===================== TEACHING ===================== */
