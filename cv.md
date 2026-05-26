@@ -50,7 +50,7 @@ lang: en
         <span>Oct. 2019 – Oct. 2020</span>
       </div>
       <p><strong>M.Sc. in Machine Intelligence</strong></p>
-      <p>Supervisor: <a href="https://nexteinstein.org/person/moustapha-cisse/">Dr. Moustapha Cissé</a></p>
+      <p>Supervisor: <a href="https://www.healthdata.org/about/people/moustapha-cisse">Dr. Moustapha Cissé</a></p>
       <p>Thesis: <em>Optimization and Generalization of Shallow Neural Networks with Quadratic Activation Functions</em></p>
       <p class="cv-note">Full scholarship funded by Facebook and Google through <a href="https://aimsammi.org/">AMMI</a>.</p>
     </div>
