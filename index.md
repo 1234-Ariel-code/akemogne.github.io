@@ -224,6 +224,11 @@ comments: true
   </div>
 
   <div class="award-item">
+    <strong>FIRST Jobs: TechBOOST Internship, Technology Alberta</strong>,
+    AI Systems Intern at VirtuClinic, 2024–2025.
+  </div>
+
+  <div class="award-item">
     <strong>Alberta Innovates Graduate Scholarship</strong>,
     2023–2026.
   </div>
