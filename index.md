@@ -219,7 +219,7 @@ comments: true
 <div class="award-list">
 
   <div class="award-item">
-    <strong>Student Research Presentation Awards Nominee</strong>,
+    <strong>Student Research Presentation Award (Honourable Mention)</strong>,
     Statistical Society of Canada Annual Meeting, 2026.
   </div>
 
