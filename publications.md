@@ -147,8 +147,8 @@ lang: en
       </h3>
 
       <p class="pub-authors">
-        <strong>Kemogne A.</strong>, Weeraman J., Wang D., Enoma D., Li C.,
-        Ganeshiny S., Chernenkoff S., Chekouo T., Zhang Q., Long Q.
+        <strong>Kemogne A.</strong>, Weeraman J., Ganeshiny S., Wang D., 
+        Chernenkoff S., Enoma D., Li C., Linzhi Cai, Chekouo T., Zhang Q., Long Q.
       </p>
 
       <p class="pub-venue">
