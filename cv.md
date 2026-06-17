@@ -36,7 +36,7 @@ lang: en
         <span>Jan. 2022 – Jan. 2026</span>
       </div>
       <p><strong>Ph.D. in Biostatistics</strong></p>
-      <p>Supervisor: <a href="https://cumming.ucalgary.ca/departments/bmb/profiles/dr-quan-long">Dr. Quan Long</a></p>
+      <p>Supervisor: <a href="https://sites.google.com/site/quanlongresearch/">Dr. Quan Long</a></p>
     </div>
   </div>
 
