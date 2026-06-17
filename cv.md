@@ -33,7 +33,7 @@ lang: en
     <div class="cv-content">
       <div class="cv-header">
         <h3><a href="https://www.ucalgary.ca/">University of Calgary</a>, Canada</h3>
-        <span>Jan. 2022 – Jan. 2026</span>
+        <span>Sep. 2022 – Dec. 2026</span>
       </div>
       <p><strong>Ph.D. in Biostatistics</strong></p>
       <p>Supervisor: <a href="https://sites.google.com/site/quanlongresearch/">Dr. Quan Long</a></p>
