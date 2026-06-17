@@ -47,7 +47,7 @@ lang: en
     <div class="cv-content">
       <div class="cv-header">
         <h3><a href="https://www.ug.edu.gh/">University of Ghana / AMMI Ghana</a></h3>
-        <span>Oct. 2019 – Oct. 2020</span>
+        <span>Oct. 2019 – Jun. 2021</span>
       </div>
       <p><strong>M.Sc. in Machine Intelligence</strong></p>
       <p>Supervisor: <a href="https://www.healthdata.org/about/people/moustapha-cisse">Prof. Moustapha Cissé</a></p>
